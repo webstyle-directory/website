@@ -5,7 +5,7 @@ import path from 'path';
 
 import debugGithubRepos from '../debug-github-repos.json';
 import githubRepos from '../react-native-libraries.json';
-import * as Strings from '../util/strings';
+import * as Strings from '../src/util/strings';
 import calculateScore from './calculate-score';
 import { fetchGithubData, fetchGithubRateLimit, loadGitHubLicenses } from './fetch-github-data';
 import fetchNpmData from './fetch-npm-data';
@@ -91,7 +91,7 @@ const buildAndScoreData = async () => {
   }
 
   return jsonfile.writeFile(
-    path.resolve('assets', 'data.json'),
+    path.resolve('src/assets', 'data.json'),
     {
       libraries: data,
       topics: topicCounts,

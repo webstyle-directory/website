@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Text, View } from 'react-native';
 
-import data from '../assets/data.json';
+import data from '../src/assets/data.json';
 import Library from '../components/Library';
 
 export default () => (
