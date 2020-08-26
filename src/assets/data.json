@@ -19,13 +19,13 @@
           "hasPages": true,
           "hasDownloads": true,
           "hasTopics": true,
-          "updatedAt": "2020-08-22T21:41:46Z",
+          "updatedAt": "2020-08-26T08:32:01Z",
           "createdAt": "2011-07-29T21:19:00Z",
-          "pushedAt": "2020-08-22T21:41:46Z",
-          "forks": 67630,
+          "pushedAt": "2020-08-26T08:32:01Z",
+          "forks": 67636,
           "issues": 332,
           "subscribers": 7160,
-          "stars": 143707
+          "stars": 143716
         },
         "name": "bootstrap",
         "fullName": "twbs/bootstrap",
@@ -93,7 +93,7 @@
           "updatedAt": "2020-08-16T23:41:33Z",
           "createdAt": "2013-04-22T16:16:39Z",
           "pushedAt": "2020-08-16T23:41:33Z",
-          "forks": 2148,
+          "forks": 2147,
           "issues": 5,
           "subscribers": 788,
           "stars": 21035
@@ -138,81 +138,6 @@
       "topicSearchString": "css pure html"
     },
     {
-      "githubUrl": "https://github.com/vmware/clarity",
-      "uiComponents": true,
-      "templates": true,
-      "scss": false,
-      "less": false,
-      "vanilacss": true,
-      "angular": true,
-      "github": {
-        "urls": {
-          "repo": "https://github.com/vmware/clarity",
-          "clone": "https://github.com/vmware/clarity.git",
-          "homepage": "http://clarity.design"
-        },
-        "stats": {
-          "hasIssues": true,
-          "hasWiki": true,
-          "hasPages": true,
-          "hasDownloads": true,
-          "hasTopics": true,
-          "updatedAt": "2020-08-25T10:55:25Z",
-          "createdAt": "2016-09-29T17:24:17Z",
-          "pushedAt": "2020-08-25T10:55:25Z",
-          "forks": 635,
-          "issues": 536,
-          "subscribers": 243,
-          "stars": 5980
-        },
-        "name": "clarity",
-        "fullName": "vmware/clarity",
-        "description": "UX guidelines, HTML/CSS framework, and Angular components working together to craft exceptional experiences",
-        "topics": [
-          "ux",
-          "ui",
-          "angular",
-          "css",
-          "typescript",
-          "component-library",
-          "design-system",
-          "clarity"
-        ],
-        "license": {
-          "key": "other",
-          "name": "Other",
-          "spdxId": "NOASSERTION",
-          "url": "http://choosealicense.com/licenses/other/",
-          "id": "MDc6TGljZW5zZTA="
-        },
-        "lastRelease": {
-          "name": "v3.0.0-next.7",
-          "tagName": "v3.0.0-next.7",
-          "createdAt": "2020-01-23T19:35:34Z",
-          "publishedAt": "2020-01-23T22:29:30Z",
-          "isPrerelease": true
-        }
-      },
-      "images": [
-        "https://github.com/vmware/clarity/raw/master/logo.png"
-      ],
-      "npmPkg": "clarity",
-      "npm": {
-        "downloads": 45,
-        "start": "2020-07-27",
-        "end": "2020-08-25",
-        "period": "month"
-      },
-      "score": 75,
-      "matchingScoreModifiers": [
-        "Very popular",
-        "Popular",
-        "Lots of open issues",
-        "Recently updated"
-      ],
-      "topicSearchString": "ux ui angular css typescript component-library design-system clarity"
-    },
-    {
       "githubUrl": "https://github.com/mui-org/material-ui",
       "uiComponents": true,
       "templates": true,
@@ -235,10 +160,10 @@
           "updatedAt": "2020-08-26T00:21:49Z",
           "createdAt": "2014-08-18T19:11:54Z",
           "pushedAt": "2020-08-26T00:21:49Z",
-          "forks": 17377,
-          "issues": 417,
+          "forks": 17379,
+          "issues": 418,
           "subscribers": 1344,
-          "stars": 60411
+          "stars": 60418
         },
         "name": "material-ui",
         "fullName": "mui-org/material-ui",
@@ -304,11 +229,11 @@
           "hasPages": true,
           "hasDownloads": true,
           "hasTopics": true,
-          "updatedAt": "2020-08-25T10:55:25Z",
+          "updatedAt": "2020-08-26T07:38:30Z",
           "createdAt": "2016-09-29T17:24:17Z",
-          "pushedAt": "2020-08-25T10:55:25Z",
+          "pushedAt": "2020-08-26T07:38:30Z",
           "forks": 635,
-          "issues": 536,
+          "issues": 534,
           "subscribers": 243,
           "stars": 5980
         },
@@ -384,7 +309,7 @@
           "forks": 453,
           "issues": 47,
           "subscribers": 70,
-          "stars": 5022
+          "stars": 5024
         },
         "name": "baseweb",
         "fullName": "uber/baseweb",
@@ -430,7 +355,7 @@
     }
   ],
   "topics": {
-    "css": 4,
+    "css": 3,
     "bootstrap": 1,
     "javascript": 2,
     "html": 2,
@@ -438,17 +363,17 @@
     "css-framework": 1,
     "sass": 1,
     "pure": 1,
-    "ux": 2,
-    "ui": 2,
-    "angular": 2,
-    "typescript": 3,
-    "component-library": 3,
-    "design-system": 2,
-    "clarity": 2,
     "react-components": 2,
     "react": 2,
     "material-design": 1,
-    "design-systems": 2
+    "design-systems": 2,
+    "typescript": 2,
+    "ux": 1,
+    "ui": 1,
+    "angular": 1,
+    "component-library": 2,
+    "design-system": 1,
+    "clarity": 1
   },
   "topicsList": [
     "angular",

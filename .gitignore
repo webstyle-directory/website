@@ -40,3 +40,5 @@ build/
 
 # IDEs
 .idea
+
+.vercel
