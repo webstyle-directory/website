@@ -1,7 +1,7 @@
 {
   "build": {
     "env": {
-      "GITHUB_TOKEN": "@github_token"
+      "GITHUB_TOKEN": "@api_github_token"
     }
   }
 }
