@@ -36,7 +36,7 @@ export default function Header() {
                   style={[styles.themeButton, isSmallScreen ? styles.themeButtonSmall : {}]}>
                   <Text style={styles.themeButtonText}>{context.isDark ? '☀️' : '🌒'}</Text>
                 </Button>
-                <Button href="https://github.com/react-native-directory/website#how-do-i-add-a-library">
+                <Button href="https://github.com/webstyle-directory/website#how-do-i-add-a-library">
                   <View style={styles.displayHorizontal}>
                     <Plus
                       width={14}

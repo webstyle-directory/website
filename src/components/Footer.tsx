@@ -19,7 +19,7 @@ export default function Footer() {
           <ContentContainer>
             <P style={styles.footerText}>
               Missing a library?{' '}
-              <A href="https://github.com/react-native-community/react-native-directory#how-do-i-add-a-library">
+              <A href="https://github.com/webstyle-directory/website#how-do-i-add-a-library">
                 Add it to the directory
               </A>.
             </P>

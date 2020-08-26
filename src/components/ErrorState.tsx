@@ -9,7 +9,7 @@ export default ({ statusCode }) => {
       <H2 style={styles.text}>Uh oh, something went wrong ({statusCode})</H2>
       <P style={[styles.text, styles.secondLine]}>
         Help fix it? Submit a PR to the{' '}
-        <A href="https://github.com/react-native-directory/website">Github Repo</A>.
+        <A href="https://github.com/webstyle-directory/website">Github Repo</A>.
       </P>
     </View>
   );

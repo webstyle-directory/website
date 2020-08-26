@@ -2,7 +2,6 @@ import Document, { Html, Head, Main, NextScript } from 'next/document';
 import React from 'react';
 
 import Favicons from '../components/Favicons';
-import GoogleAnalytics from '../components/GoogleAnalytics';
 
 const site = {
   title: 'React Native Directory',
@@ -19,7 +18,6 @@ class DirectoryWebsite extends Document {
     <Html lang="en">
       <Head>
         <Favicons />
-        <GoogleAnalytics id="UA-107832480-1" />
         {injectMeta.map((value, index) => (
           <meta key={`meta-${index}`} {...value} />
         ))}

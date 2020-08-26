@@ -24,7 +24,7 @@ const DirectoryScore = () => {
         library. A library can earn value by exhibiting "good behavior criteria" and can lose value
         by exhibiting "bad behavior criteria". These criteria and their corresponding weights are
         detailed below. You can see the code this directory uses to create Directory Scores{' '}
-        <A href="https://github.com/react-native-directory/website/blob/master/scripts/calculate-score.js">
+        <A href="https://github.com/webstyle-directory/website/blob/master/scripts/calculate-score.js">
           here
         </A>
         .
