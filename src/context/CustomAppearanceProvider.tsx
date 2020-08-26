@@ -38,7 +38,7 @@ export default function CustomAppearanceProvider({ children }) {
       <CustomAppearanceContext.Provider
         value={{
           isDark,
-          setIsDark: isDark => {
+          setIsDark: (isDark) => {
             setIsDark(isDark);
             cacheAppearanceState({ isDark });
           },

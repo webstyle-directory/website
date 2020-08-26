@@ -22,11 +22,11 @@ const Thumbnail = ({ url }: Props) => {
     strategy: 'fixed',
   });
 
-  const handleMouseEvent = useCallback(show => setShowPreview(show), [showPreview]);
+  const handleMouseEvent = useCallback((show) => setShowPreview(show), [showPreview]);
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <>
           <a
             ref={iconRef}

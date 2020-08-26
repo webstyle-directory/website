@@ -25,7 +25,7 @@ const JSON_OPTIONS = {
 };
 
 export const sleep = (ms = 0) => {
-  return new Promise(r => setTimeout(r, ms));
+  return new Promise((r) => setTimeout(r, ms));
 };
 
 let invalidRepos = [];
@@ -34,7 +34,7 @@ const buildAndScoreData = async () => {
   console.log('** Loading data from GitHub');
   let data = await loadRepositoryDataAsync();
 
-  data = data.filter(project => {
+  data = data.filter((project) => {
     if (!project.github || Strings.isEmptyOrNull(project.github.name)) {
       invalidRepos.push(project.githubUrl);
       return false;
@@ -44,15 +44,15 @@ const buildAndScoreData = async () => {
 
   console.log('\n** Scraping images from README');
   await sleep(1000);
-  data = await Promise.all(data.map(d => fetchReadmeImages(d, d.githubUrl)));
+  data = await Promise.all(data.map((d) => fetchReadmeImages(d, d.githubUrl)));
 
   console.log('\n** Loading download stats from npm');
   await sleep(1000);
-  data = await Promise.all(data.map(d => fetchNpmData(d, d.npmPkg, d.githubUrl)));
+  data = await Promise.all(data.map((d) => fetchNpmData(d, d.npmPkg, d.githubUrl)));
 
   // Calculate score
   console.log('\n** Calculating scores');
-  data = data.map(project => {
+  data = data.map((project) => {
     try {
       return calculateScore(project);
     } catch (e) {
@@ -68,7 +68,7 @@ const buildAndScoreData = async () => {
     let topicSearchString = '';
 
     if (project.github.topics) {
-      project.github.topics.forEach(topic => {
+      project.github.topics.forEach((topic) => {
         topicSearchString = `${topicSearchString} ${topic}`;
 
         if (!topicCounts[topic]) {
@@ -87,7 +87,7 @@ const buildAndScoreData = async () => {
     console.log(
       '** The following repositories were unable to fetch from GitHub, they may need to be removed from react-native-libraries.json:'
     );
-    invalidRepos.forEach(repoUrl => console.log(`- ${repoUrl}`));
+    invalidRepos.forEach((repoUrl) => console.log(`- ${repoUrl}`));
   }
 
   return jsonfile.writeFile(
@@ -98,7 +98,7 @@ const buildAndScoreData = async () => {
       topicsList: Object.keys(topicCounts).sort(),
     },
     JSON_OPTIONS,
-    err => {
+    (err) => {
       if (err) {
         console.log(err);
       } else {
@@ -167,7 +167,7 @@ async function loadRepositoryDataAsync() {
 
     if (LOAD_GITHUB_RESULTS_FROM_DISK) {
       await new Promise((resolve, reject) => {
-        jsonfile.writeFile(GITHUB_RESULTS_PATH, result, JSON_OPTIONS, err => {
+        jsonfile.writeFile(GITHUB_RESULTS_PATH, result, JSON_OPTIONS, (err) => {
           if (err) {
             reject(err);
           } else {

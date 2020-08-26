@@ -17,7 +17,7 @@ export const handleFilterLibraries = ({
   const viewerHasChosenTopic = !isEmptyOrNull(queryTopic);
   const viewerHasTypedSearch = !isEmptyOrNull(querySearch);
 
-  return libraries.filter(library => {
+  return libraries.filter((library) => {
     let isTopicMatch = false;
     let isSearchMatch = false;
 

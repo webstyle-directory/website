@@ -24,7 +24,7 @@ const App = ({ pageProps, Component }) => {
     <AppearanceProvider>
       <CustomAppearanceProvider>
         <CustomAppearanceContext.Consumer>
-          {context => (
+          {(context) => (
             <SafeAreaProvider
               style={{
                 flex: 1,

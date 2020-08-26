@@ -26,7 +26,7 @@ export default function Pagination(props: Props) {
   const backDisabled = currentPage <= 1;
   const forwardDisabled = currentPage >= totalPages;
 
-  const backArrow = isDark => (
+  const backArrow = (isDark) => (
     <View
       style={[
         styles.rotate,
@@ -40,7 +40,7 @@ export default function Pagination(props: Props) {
     </View>
   );
 
-  const forwardArrow = isDark => (
+  const forwardArrow = (isDark) => (
     <View
       style={[
         styles.arrowContainer,
@@ -55,7 +55,7 @@ export default function Pagination(props: Props) {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <View style={[styles.container, style]}>
           {backDisabled ? (
             backArrow(context.isDark)

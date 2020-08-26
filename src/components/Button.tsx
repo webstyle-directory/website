@@ -19,7 +19,7 @@ export function Button(props: Props) {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <A href={href} target={target}>
           <TouchableOpacity
             onPress={onPress}

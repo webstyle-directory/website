@@ -10,32 +10,32 @@ const modifiers = [
   {
     name: 'Very popular',
     value: 40,
-    condition: data => popularityScore(data) > 10000,
+    condition: (data) => popularityScore(data) > 10000,
   },
   {
     name: 'Popular',
     value: 10,
-    condition: data => popularityScore(data) > 2500,
+    condition: (data) => popularityScore(data) > 2500,
   },
   {
     name: 'Recommended',
     value: 20,
-    condition: data => data.goldstar,
+    condition: (data) => data.goldstar,
   },
   {
     name: 'Lots of open issues',
     value: -20,
-    condition: data => data.github.stats.issues >= 75,
+    condition: (data) => data.github.stats.issues >= 75,
   },
   {
     name: 'No license',
     value: -20,
-    condition: data => data.license === null,
+    condition: (data) => data.license === null,
   },
   {
     name: 'GPL license',
     value: -20,
-    condition: data =>
+    condition: (data) =>
       data.license &&
       data.license.key &&
       (data.license.key.startsWith('gpl') || data.license.key.startsWith('other')),
@@ -43,12 +43,12 @@ const modifiers = [
   {
     name: 'Recently updated',
     value: 10,
-    condition: data => getUpdatedDaysAgo(data) <= 30, // Roughly 1 month
+    condition: (data) => getUpdatedDaysAgo(data) <= 30, // Roughly 1 month
   },
   {
     name: 'Not updated recently',
     value: -20,
-    condition: data => getUpdatedDaysAgo(data) >= 180, // Roughly 6 months
+    condition: (data) => getUpdatedDaysAgo(data) >= 180, // Roughly 6 months
   },
 ];
 
@@ -60,9 +60,9 @@ const maxScore = modifiers.reduce((currentMax, modifier) => {
   return modifier.value > 0 ? currentMax + modifier.value : currentMax;
 }, 0);
 
-const calculateScore = data => {
+const calculateScore = (data) => {
   // Filter the modifiers to the ones which condictions pass with the data
-  const matchingModifiers = modifiers.filter(modifier => modifier.condition(data));
+  const matchingModifiers = modifiers.filter((modifier) => modifier.condition(data));
 
   // Reduce the matching modifiers to find the raw score for the data
   const rawScore = matchingModifiers.reduce((currentScore, modifier) => {
@@ -74,7 +74,7 @@ const calculateScore = data => {
   const score = Math.round(((rawScore - minScore) / (maxScore - minScore)) * 100);
 
   // Map the modifiers to the name so we can include that in the data
-  const matchingModifierNames = matchingModifiers.map(modifier => modifier.name);
+  const matchingModifierNames = matchingModifiers.map((modifier) => modifier.name);
 
   return {
     ...data,
@@ -83,13 +83,13 @@ const calculateScore = data => {
   };
 };
 
-const popularityScore = data => {
+const popularityScore = (data) => {
   let { subscribers, forks, stars } = data.github.stats;
   let { downloads } = data.npm;
   return subscribers * 20 + forks * 10 + stars + downloads / 100;
 };
 
-const getUpdatedDaysAgo = data => {
+const getUpdatedDaysAgo = (data) => {
   const { updatedAt } = data.github.stats;
   const updateDate = new Date(updatedAt).getTime();
   const currentDate = new Date().getTime();

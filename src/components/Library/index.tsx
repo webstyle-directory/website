@@ -23,7 +23,7 @@ export default function Library(props: Props) {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <View
           style={[
             styles.container,

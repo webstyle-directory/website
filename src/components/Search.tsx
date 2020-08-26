@@ -26,7 +26,7 @@ export default function Search(props: Props) {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <>
           <View
             style={[

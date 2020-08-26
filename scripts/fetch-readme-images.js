@@ -19,7 +19,7 @@ const isLikelyUsefulImage = (image, imageSrc, githubUrl) => {
   );
 };
 
-const scrapeImagesAsync = async githubUrl => {
+const scrapeImagesAsync = async (githubUrl) => {
   let response = await fetch(githubUrl);
   let html = await response.text();
   let $ = cheerio.load(html);

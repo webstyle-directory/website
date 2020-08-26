@@ -10,7 +10,7 @@ export const layout = {
   isSmallScreen: () => {
     const {
       window: { width },
-    } = useDimensions();
+    } = useDimensions(); // eslint-disable-line react-hooks/rules-of-hooks
     return width < 800;
   },
 };
@@ -81,7 +81,7 @@ function createTextComponent(Element: any, textStyle?: TextStyle | TextStyle[]) 
     const { children, style } = props;
     return (
       <CustomAppearanceContext.Consumer>
-        {context => (
+        {(context) => (
           <Element
             style={[
               textStyles[Element],
@@ -123,7 +123,7 @@ export const A = (props: AProps) => {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => {
+      {(context) => {
         const anchorStyles = getAnchorStyles(context.isDark);
         return (
           <HtmlElements.A
@@ -145,7 +145,7 @@ export const A = (props: AProps) => {
   );
 };
 
-const getAnchorStyles = isDark =>
+const getAnchorStyles = (isDark) =>
   StyleSheet.create({
     a: {
       color: isDark ? colors.white : colors.black,

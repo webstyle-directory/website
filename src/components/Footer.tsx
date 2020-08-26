@@ -8,7 +8,7 @@ import CustomAppearanceContext from '../context/CustomAppearanceContext';
 export default function Footer() {
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <View
           style={[
             styles.container,
@@ -21,7 +21,8 @@ export default function Footer() {
               Missing a library?{' '}
               <A href="https://github.com/webstyle-directory/website#how-do-i-add-a-library">
                 Add it to the directory
-              </A>.
+              </A>
+              .
             </P>
           </ContentContainer>
         </View>

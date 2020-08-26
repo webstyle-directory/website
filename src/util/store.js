@@ -29,8 +29,8 @@ export const INITIAL_STATE = {
 };
 
 export const reducer = (state = INITIAL_STATE, action) => {
-  console.log(state)
-  console.log(action)
+  console.log(state);
+  console.log(action);
   switch (action.type) {
     case 'UPDATE_SUPPORT_FILTER':
       return { ...state, support: { ...state.support, ...action.support } };
@@ -59,6 +59,6 @@ export const reducer = (state = INITIAL_STATE, action) => {
   }
 };
 
-export const initStore = initialState => {
+export const initStore = (initialState) => {
   return createStore(reducer, initialState);
 };

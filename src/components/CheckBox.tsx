@@ -16,7 +16,7 @@ export function CheckBox(props: Props) {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <View
           style={[
             styles.container,

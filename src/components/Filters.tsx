@@ -82,8 +82,8 @@ function ToggleLink({ query, paramName, title }) {
 export const FilterButton = (props: FilterButtonProps) => {
   const { isFilterVisible, query, onPress } = props;
   const params = [
-    ...supports.map(platform => platform.param),
-    ...uiFrameworks.map(platform => platform.param),
+    ...supports.map((platform) => platform.param),
+    ...uiFrameworks.map((platform) => platform.param),
     'hasExample',
     'hasImage',
     'hasTypes',
@@ -99,7 +99,7 @@ export const FilterButton = (props: FilterButtonProps) => {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <Button
           onPress={onPress}
           style={[
@@ -129,7 +129,7 @@ export const Filters = (props: FiltersProps) => {
   const { query } = props;
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <View
           style={[
             styles.wrapper,
@@ -140,7 +140,7 @@ export const Filters = (props: FiltersProps) => {
           <View style={styles.container}>
             <Headline style={styles.title}>UI Frameworks</Headline>
             <View style={styles.optionsContainer}>
-              {uiFrameworks.map(platform => (
+              {uiFrameworks.map((platform) => (
                 <ToggleLink
                   key={platform.param}
                   query={query}
@@ -153,7 +153,7 @@ export const Filters = (props: FiltersProps) => {
           <View style={styles.container}>
             <Headline style={styles.title}>Supports</Headline>
             <View style={styles.optionsContainer}>
-              {supports.map(platform => (
+              {supports.map((platform) => (
                 <ToggleLink
                   key={platform.param}
                   query={query}

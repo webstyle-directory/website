@@ -4,7 +4,7 @@ import libraries from '../react-native-libraries.json';
 
 const GITHUB_URL_PATTERN = /^https:\/\/github\.com\/[\w-]+\/[\w-]+(\/tree\/[\w-\\/\\.]+)?$/g;
 
-const validateLibrariesFormat = libraries => {
+const validateLibrariesFormat = (libraries) => {
   console.log('Checking all libraries have the correct format');
 
   // Reduces the libraries array to an object of errors for each library
@@ -40,12 +40,12 @@ const validateLibrariesFormat = libraries => {
   }
 };
 
-const validateDuplicateLibraries = libraries => {
+const validateDuplicateLibraries = (libraries) => {
   console.log('Checking for duplicate libraries');
 
   const duplicateLibraries = _.chain(libraries)
     // Reduce the library names to an object with the name as the key and the count as the value
-    .map(library => library.githubUrl)
+    .map((library) => library.githubUrl)
     .reduce((currentCount, libraryName) => {
       const previousCount = currentCount[libraryName] || 0;
       currentCount[libraryName] = previousCount + 1;
@@ -53,9 +53,9 @@ const validateDuplicateLibraries = libraries => {
     }, {})
     // Convert to pairs and then filter based on the count
     .toPairs()
-    .filter(pair => pair[1] > 1)
+    .filter((pair) => pair[1] > 1)
     // Map back to the library name and return the value
-    .map(pair => pair[0])
+    .map((pair) => pair[0])
     .value();
 
   if (duplicateLibraries.length > 0) {

@@ -18,7 +18,7 @@ type TagProps = {
 
 const Tag = ({ platform, tagStyle, showCheck = true }: TagProps) => (
   <CustomAppearanceContext.Consumer>
-    {context => (
+    {(context) => (
       <View key={platform} style={[styles.tag, tagStyle]}>
         {showCheck ? (
           <Check width={14} height={10} fill={context.isDark ? darkColors.secondary : undefined} />
@@ -46,12 +46,12 @@ export function CompatibilityTags(props: Props) {
     library.scss ? 'SCSS' : null,
     library.less ? 'LESS' : null,
   ]
-    .map(platform => platform)
+    .map((platform) => platform)
     .filter(Boolean);
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <View style={styles.container}>
           {library.dev ? (
             <Tag
@@ -63,7 +63,7 @@ export function CompatibilityTags(props: Props) {
               showCheck={false}
             />
           ) : null}
-          {platforms.map(platform => (
+          {platforms.map((platform) => (
             <Tag
               key={platform}
               platform={platform}

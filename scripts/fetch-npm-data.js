@@ -2,7 +2,7 @@ import fetch from 'isomorphic-fetch';
 
 import { sleep } from './build-and-score-data';
 
-const urlForPackage = npmPkg => {
+const urlForPackage = (npmPkg) => {
   return `https://api.npmjs.org/downloads/point/last-month/${npmPkg}`;
 };
 

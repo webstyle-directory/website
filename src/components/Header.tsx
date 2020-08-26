@@ -12,7 +12,7 @@ export default function Header() {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <HtmlHeader>
           <View
             style={[

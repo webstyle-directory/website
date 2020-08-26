@@ -1,4 +1,4 @@
-export const recommended = libraries => {
+export const recommended = (libraries) => {
   libraries.sort((a, b) => {
     return a.goldstar === b.goldstar ? 0 : a.goldstar ? -1 : 1;
   });
@@ -6,19 +6,15 @@ export const recommended = libraries => {
   return libraries;
 };
 
-export const compatibility = libraries => {
+export const compatibility = (libraries) => {
   libraries.sort((a, b) => {
-    const aCompat = [1, a.templates, a.uiComponents, a.scss].reduce(
-      (total, val) => {
-        return val ? total + val : total;
-      }
-    );
+    const aCompat = [1, a.templates, a.uiComponents, a.scss].reduce((total, val) => {
+      return val ? total + val : total;
+    });
 
-    const bCompat = [1, b.templates, b.uiComponents, b.scss].reduce(
-      (total, val) => {
-        return val ? total + val : total;
-      }
-    );
+    const bCompat = [1, b.templates, b.uiComponents, b.scss].reduce((total, val) => {
+      return val ? total + val : total;
+    });
 
     return bCompat - aCompat;
   });
@@ -26,7 +22,7 @@ export const compatibility = libraries => {
   return libraries;
 };
 
-export const issues = libraries => {
+export const issues = (libraries) => {
   libraries.sort((a, b) => {
     return b.github.stats.issues - a.github.stats.issues;
   });
@@ -34,7 +30,7 @@ export const issues = libraries => {
   return libraries;
 };
 
-export const stars = libraries => {
+export const stars = (libraries) => {
   libraries.sort((a, b) => {
     return b.github.stats.stars - a.github.stats.stars;
   });
@@ -42,7 +38,7 @@ export const stars = libraries => {
   return libraries;
 };
 
-export const downloads = libraries => {
+export const downloads = (libraries) => {
   libraries.sort((a, b) => {
     let bDownloads = b.npm.downloads ? b.npm.downloads : 0;
     let aDownloads = a.npm.downloads ? a.npm.downloads : 0;
@@ -53,7 +49,7 @@ export const downloads = libraries => {
   return libraries;
 };
 
-export const updated = libraries => {
+export const updated = (libraries) => {
   libraries.sort((a, b) => {
     return new Date(b.github.stats.pushedAt) - new Date(a.github.stats.pushedAt);
   });
@@ -61,7 +57,7 @@ export const updated = libraries => {
   return libraries;
 };
 
-export const quality = libraries => {
+export const quality = (libraries) => {
   libraries.sort((a, b) => {
     return b.score - a.score;
   });

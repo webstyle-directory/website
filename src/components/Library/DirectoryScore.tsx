@@ -14,7 +14,7 @@ export function DirectoryScore(props: Props) {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => {
+      {(context) => {
         const getFill = (chunkNumber = 1) =>
           score >= chunk * chunkNumber
             ? colors.primaryDark

@@ -24,7 +24,7 @@ const SortingKeys = Object.keys(SortedData);
 const getAllowedOrderString = (req: NextApiRequest) => {
   let sortBy = SortingKeys[0];
 
-  SortingKeys.forEach(sortName => {
+  SortingKeys.forEach((sortName) => {
     if (req.query.order === sortName) {
       sortBy = sortName;
     }
@@ -40,12 +40,7 @@ function handler(req: NextApiRequest, res: NextApiResponse) {
   let sortBy = getAllowedOrderString(req);
   let libraries = SortedData[sortBy];
 
-  let querySearch = req.query.search
-    ? req.query.search
-        .toString()
-        .toLowerCase()
-        .trim()
-    : undefined;
+  let querySearch = req.query.search ? req.query.search.toString().toLowerCase().trim() : undefined;
 
   let filteredLibraries = handleFilterLibraries({
     libraries,
@@ -62,7 +57,7 @@ function handler(req: NextApiRequest, res: NextApiResponse) {
       angular: req.query.angular,
       reactnative: req.query.reactnative,
       react: req.query.react,
-      vue: req.query.vue
+      vue: req.query.vue,
     },
     hasExample: req.query.hasExample,
     hasImage: req.query.hasImage,

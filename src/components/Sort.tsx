@@ -57,7 +57,7 @@ export const SortButton = (props: SortButtonProps) => {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <View
           style={[
             styles.container,
@@ -79,7 +79,7 @@ export const SortButton = (props: SortButtonProps) => {
                   },
                 ]}
                 onValueChange={onPickerChange}>
-                {sorts.map(sort => (
+                {sorts.map((sort) => (
                   <Picker.Item
                     key={sort.param}
                     value={sort.param}

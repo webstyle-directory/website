@@ -16,7 +16,7 @@ const PreviewStyles = () => {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => (
+      {(context) => (
         <style jsx global>{`
           html,
           body {

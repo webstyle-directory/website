@@ -150,7 +150,7 @@ export function MetaData(props: Props) {
 
   return (
     <CustomAppearanceContext.Consumer>
-      {context => {
+      {(context) => {
         const data = generateData(library, secondary, context.isDark);
         return (
           <>

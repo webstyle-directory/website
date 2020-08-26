@@ -28,7 +28,7 @@ export const loadGitHubLicenses = async () => {
 
   const result = await makeGraphqlQuery(query);
 
-  result.data.licenses.forEach(license => {
+  result.data.licenses.forEach((license) => {
     licenses[license.key] = license;
   });
 };
@@ -154,7 +154,7 @@ export const fetchGithubRateLimit = async () => {
   return {};
 };
 
-const getUpdatedUrl = async url => {
+const getUpdatedUrl = async (url) => {
   try {
     const result = await fetch(url);
     return result.url;
@@ -163,7 +163,7 @@ const getUpdatedUrl = async url => {
   }
 };
 
-const parseUrl = url => {
+const parseUrl = (url) => {
   const [, , , repoOwner, repoName, ...path] = url.split('/');
   const isMonorepo = !!(path && path.length);
   const packagePath = isMonorepo ? path.slice(2).join('/') : '.';
@@ -217,7 +217,7 @@ export const fetchGithubData = async (data, retries = 2) => {
   }
 };
 
-const getLicenseFromPackageJson = packageJson => {
+const getLicenseFromPackageJson = (packageJson) => {
   // Get the GitHub license spec from the npm string
   if (packageJson.license && typeof packageJson.license === 'string') {
     return licenses[packageJson.license.toLowerCase()];
@@ -268,7 +268,7 @@ const createRepoDataWithResponse = (json, monorepo) => {
   const lastCommitAt = json.defaultBranchRef.target.history.nodes[0].committedDate;
 
   const hasTopics = json.topics && json.topics.length > 0;
-  const topics = hasTopics ? json.topics.map(topic => topic.toLowerCase()) : [];
+  const topics = hasTopics ? json.topics.map((topic) => topic.toLowerCase()) : [];
 
   return {
     urls: {
