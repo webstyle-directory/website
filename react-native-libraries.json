@@ -16,15 +16,6 @@
     "vanilacss": true
   },
   {
-    "githubUrl": "https://github.com/vmware/clarity",
-    "uiComponents": true,
-    "templates": true,
-    "scss": false,
-    "less": false,
-    "vanilacss": true,
-    "angular": true
-  },
-  {
     "githubUrl": "https://github.com/mui-org/material-ui",
     "uiComponents": true,
     "templates": true,
