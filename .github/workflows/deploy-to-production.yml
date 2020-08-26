@@ -25,3 +25,4 @@ jobs:
         # https://spectrum.chat/zeit/now/solved-project-linking-and-ci-cd-pipelines~5e6eb62a-9d56-47ac-9e32-0d973a523787
         NOW_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
         NOW_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
