@@ -23,5 +23,5 @@ jobs:
       env:
         VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
         # https://spectrum.chat/zeit/now/solved-project-linking-and-ci-cd-pipelines~5e6eb62a-9d56-47ac-9e32-0d973a523787
-        NOW_ORG_ID: 'n6KTiVD0ivqlxvtBAfeBCvab'
-        NOW_PROJECT_ID: 'QmeqXxypn4p9LbZ6RVQuTk4Hkz7h5sNdySjmCXjRjMJmk8'
+        NOW_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+        NOW_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
