@@ -129,5 +129,41 @@
     "githubUrl": "https://github.com/Shopify/polaris-react",
     "uiComponents": true,
     "react": true
+  },
+  {
+    "githubUrl": "https://github.com/callstack/react-native-paper",
+    "uiComponents": true,
+    "reactnative": true
+  },
+  {
+    "githubUrl": "https://github.com/wix/react-native-ui-lib",
+    "uiComponents": true,
+    "reactnative": true
+  },
+  {
+    "githubUrl": "https://github.com/akveo/react-native-ui-kitten",
+    "uiComponents": true,
+    "reactnative": true
+  },
+  {
+    "githubUrl": "https://github.com/react-native-elements/react-native-elements",
+    "uiComponents": true,
+    "reactnative": true
+  },
+  {
+    "githubUrl": "https://github.com/ant-design/ant-design-mobile",
+    "uiComponents": true,
+    "react": true,
+    "reactnative": true
+  },
+  {
+    "githubUrl": "https://github.com/ant-design/ant-design-mobile-rn",
+    "uiComponents": true,
+    "reactnative": true
+  },
+  {
+    "githubUrl": "https://github.com/GeekyAnts/NativeBase",
+    "uiComponents": true,
+    "reactnative": true
   }
 ]

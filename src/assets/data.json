@@ -156,7 +156,7 @@
           "forks": 17424,
           "issues": 417,
           "subscribers": 1344,
-          "stars": 60485
+          "stars": 60486
         },
         "name": "material-ui",
         "fullName": "mui-org/material-ui",
@@ -830,7 +830,7 @@
           "forks": 1567,
           "issues": 134,
           "subscribers": 290,
-          "stars": 12085
+          "stars": 12086
         },
         "name": "bootstrap-vue",
         "fullName": "bootstrap-vue/bootstrap-vue",
@@ -954,7 +954,7 @@
           "createdAt": "2013-07-18T16:00:26Z",
           "pushedAt": "2020-08-28T15:17:09Z",
           "forks": 2182,
-          "issues": 600,
+          "issues": 599,
           "subscribers": 705,
           "stars": 16200
         },
@@ -1345,7 +1345,7 @@
           "createdAt": "2015-03-24T08:54:10Z",
           "pushedAt": "2020-08-28T15:19:35Z",
           "forks": 748,
-          "issues": 199,
+          "issues": 198,
           "subscribers": 141,
           "stars": 6588
         },
@@ -1457,6 +1457,71 @@
         "Recently updated"
       ],
       "topicSearchString": "shopify-polaris react typescript design-system"
+    },
+    {
+      "githubUrl": "https://github.com/callstack/react-native-paper",
+      "uiComponents": true,
+      "reactnative": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/callstack/react-native-paper",
+          "clone": "https://github.com/callstack/react-native-paper.git",
+          "homepage": "https://reactnativepaper.com"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-28T11:14:01Z",
+          "createdAt": "2016-10-19T05:56:53Z",
+          "pushedAt": "2020-08-28T11:14:01Z",
+          "forks": 919,
+          "issues": 74,
+          "subscribers": 102,
+          "stars": 6393
+        },
+        "name": "react-native-paper",
+        "fullName": "callstack/react-native-paper",
+        "description": "Material Design for React Native (Android & iOS)",
+        "topics": [
+          "react-native",
+          "material-design",
+          "ui-kit"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "Release 4.0.1",
+          "tagName": "v4.0.1",
+          "createdAt": "2020-07-17T10:34:03Z",
+          "publishedAt": "2020-07-17T10:34:13Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [
+        "https://github.com/callstack/react-native-paper/raw/master/docs/assets/images/paper-logo.svg?sanitize=true"
+      ],
+      "npmPkg": "react-native-paper",
+      "npm": {
+        "downloads": 201196,
+        "start": "2020-07-29",
+        "end": "2020-08-27",
+        "period": "month"
+      },
+      "score": 88,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Recently updated"
+      ],
+      "topicSearchString": "react-native material-design ui-kit"
     }
   ],
   "topics": {
@@ -1470,7 +1535,7 @@
     "pure": 1,
     "react-components": 4,
     "react": 9,
-    "material-design": 1,
+    "material-design": 2,
     "design-systems": 3,
     "typescript": 5,
     "ux": 1,
@@ -1518,7 +1583,7 @@
     "metro-ui": 1,
     "metro-ui-css": 1,
     "metro4": 1,
-    "ui-kit": 1,
+    "ui-kit": 2,
     "antd": 2,
     "ant-design": 2,
     "ui-components": 1,
@@ -1535,7 +1600,8 @@
     "ux-framework": 1,
     "babel": 1,
     "a11y": 1,
-    "shopify-polaris": 1
+    "shopify-polaris": 1,
+    "react-native": 1
   },
   "topicsList": [
     "a11y",
@@ -1597,6 +1663,7 @@
     "pure",
     "react",
     "react-components",
+    "react-native",
     "reactstrap",
     "responsive",
     "sass",

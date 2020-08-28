@@ -60,6 +60,13 @@
         "default": false,
         "examples": [true]
       },
+      "reactnative": {
+        "$id": "#/items/properties/reactnative",
+        "type": "boolean",
+        "title": "The reactnative Schema",
+        "default": false,
+        "examples": [true]
+      },
       "angular": {
         "$id": "#/items/properties/angular",
         "type": "boolean",
