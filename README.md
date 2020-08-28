@@ -25,12 +25,14 @@ Please follow this format and indentation:
   "nameOverride": "<PACKAGE DISPLAY NAME>",
   "examples": ["<THE URL TO REPO>", "<THE URL TO A SNACK>"],
   "images": ["<PUBLIC URL TO RELATED IMAGE>"],
-  "ios": false,
-  "android": false,
-  "web": false,
-  "expo": false,
-  "windows": false,
-  "macos": false,
+  "uiComponents": false,
+  "templates": false,
+  "scss": false,
+  "less": false,
+  "vanilacss": false,
+  "react": false,
+  "angular": false,
+  "vue": false,
   "unmaintained": false,
   "dev": false
 }
@@ -41,12 +43,14 @@ Please follow this format and indentation:
 - `nameOverride` - (_optional_ string) - override name if the name is different from the GitHub repo and npm package name.
 - `examples` - (_optional_ array of strings) - URLs (snacks preferred) with demonstrations of the library.
 - `images` - (_optional_ array of strings) - URLs to images that will show up in the listing to preview the library functionality.
-- `ios` - (_optional_ boolean) - works on iOS phones.
-- `android` - (_optional_ boolean) - works on Android phones.
-- `web` - (_optional_ boolean) - can be used with [`react-native-web`](https://github.com/necolas/react-native-web).
-- `expo` - (_optional_ boolean) - can be used in managed workflow, without ejecting an [Expo](https://github.com/expo/expo) application (any library can be used if you eject).
-- `windows` - (_optional_ boolean) - can be used with [`react-native-windows`](https://github.com/microsoft/react-native-windows).
-- `macos` - (_optional_ boolean) - can be used with [`react-native-macos`](https://github.com/microsoft/react-native-macos).
+- `uiComponents` - (_optional_ boolean) - Components for web applications.
+- `templates` - (_optional_ boolean) - Free templates to help you get started building your app.
+- `scss` - (_optional_ boolean) - Supports SCSS/Sass [`sass-lang`](https://sass-lang.com/).
+- `less` - (_optional_ boolean) - Supports less [`lesscss`](http://lesscss.org/).
+- `vanilacss` - (_optional_ boolean) - Supports Plain vanila CSS.
+- `react` - (_optional_ boolean) - Supports reactjs [`reactjs`](https://reactjs.org/).
+- `angular` - (_optional_ boolean) - Supports angular [`angular`](https://angular.io/).
+- `vue` - (_optional_ boolean) - Supports vuejs [`vuejs`](https://vuejs.org/).
 - `unmaintained` - (_optional_ boolean) - signify that a library is not maintained.
 - `dev` - (_optional_ boolean) - signify that a library is a development tool.
 

@@ -3,25 +3,18 @@
     "githubUrl": "https://github.com/twbs/bootstrap",
     "uiComponents": true,
     "templates": true,
-    "scss": true,
-    "less": false,
-    "vanilacss": false
+    "scss": true
   },
   {
     "githubUrl": "https://github.com/pure-css/pure",
     "uiComponents": true,
     "templates": true,
-    "scss": false,
-    "less": false,
     "vanilacss": true
   },
   {
     "githubUrl": "https://github.com/mui-org/material-ui",
     "uiComponents": true,
     "templates": true,
-    "scss": false,
-    "less": false,
-    "vanilacss": false,
     "react": true
   },
   {
@@ -29,8 +22,6 @@
     "npmPkg": "@clr/angular",
     "uiComponents": true,
     "templates": true,
-    "scss": false,
-    "less": false,
     "vanilacss": true,
     "angular": true
   },
@@ -38,27 +29,90 @@
     "githubUrl": "https://github.com/uber/baseweb",
     "uiComponents": true,
     "templates": true,
-    "scss": false,
-    "less": false,
-    "vanilacss": false,
     "react": true
   },
   {
-    "githubUrl": "https://github.com/animate-css/animate.css",
-    "uiComponents": false,
-    "templates": false,
-    "scss": false,
-    "less": false,
-    "vanilacss": true,
-    "react": false
+    "githubUrl": "https://github.com/foundation/foundation-sites",
+    "uiComponents": true,
+    "templates": true,
+    "scss": true,
+    "vanilacss": true
   },
   {
     "githubUrl": "https://github.com/getbase/base",
-    "uiComponents": false,
-    "templates": false,
+    "templates": true,
     "scss": true,
     "less": true,
+    "vanilacss": true
+  },
+  {
+    "githubUrl": "https://github.com/jgthms/bulma",
+    "uiComponents": true,
+    "templates": true,
+    "scss": true,
+    "vanilacss": true
+  },
+  {
+    "githubUrl": "https://github.com/couds/react-bulma-components",
+    "uiComponents": true,
+    "scss": true,
+    "react": true
+  },
+  {
+    "githubUrl": "https://github.com/react-bootstrap/react-bootstrap",
+    "uiComponents": true,
+    "react": true
+  },
+  {
+    "githubUrl": "https://github.com/ng-bootstrap/ng-bootstrap",
+    "uiComponents": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/reactstrap/reactstrap",
+    "uiComponents": true,
+    "react": true
+  },
+  {
+    "githubUrl": "https://github.com/bootstrap-vue/bootstrap-vue",
+    "uiComponents": true,
+    "vue": true
+  },
+  {
+    "githubUrl": "https://github.com/dhg/Skeleton",
+    "uiComponents": true,
+    "vanilacss": true
+  },
+  {
+    "githubUrl": "https://github.com/uikit/uikit",
+    "uiComponents": true,
+    "scss": true,
+    "less": true,
+    "vanilacss": true
+  },
+  {
+    "githubUrl": "https://github.com/microsoft/fluentui",
+    "uiComponents": true,
+    "react": true
+  },
+  {
+    "githubUrl": "https://github.com/olton/Metro-UI-CSS",
+    "uiComponents": true,
+    "less": true,
+    "vanilacss": true
+  },
+  {
+    "githubUrl": "https://github.com/ant-design/ant-design",
+    "uiComponents": true,
+    "less": true,
     "vanilacss": true,
-    "react": false
+    "react": true
+  },
+  {
+    "githubUrl": "https://github.com/NG-ZORRO/ng-zorro-antd",
+    "uiComponents": true,
+    "less": true,
+    "vanilacss": true,
+    "angular": true
   }
 ]

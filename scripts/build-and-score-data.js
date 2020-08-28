@@ -4,8 +4,8 @@ import chunk from 'lodash/chunk';
 import path from 'path';
 
 import debugGithubRepos from '../debug-github-repos.json';
-import githubRepos from '../style-libraries.json';
 import * as Strings from '../src/util/strings';
+import githubRepos from '../style-libraries.json';
 import calculateScore from './calculate-score';
 import { fetchGithubData, fetchGithubRateLimit, loadGitHubLicenses } from './fetch-github-data';
 import fetchNpmData from './fetch-npm-data';
