@@ -4,8 +4,8 @@ import chunk from 'lodash/chunk';
 import path from 'path';
 
 import debugGithubRepos from '../debug-github-repos.json';
-import githubRepos from '../react-native-libraries.json';
 import * as Strings from '../src/util/strings';
+import githubRepos from '../style-libraries.json';
 import calculateScore from './calculate-score';
 import { fetchGithubData, fetchGithubRateLimit, loadGitHubLicenses } from './fetch-github-data';
 import fetchNpmData from './fetch-npm-data';
@@ -85,7 +85,7 @@ const buildAndScoreData = async () => {
 
   if (invalidRepos.length) {
     console.log(
-      '** The following repositories were unable to fetch from GitHub, they may need to be removed from react-native-libraries.json:'
+      '** The following repositories were unable to fetch from GitHub, they may need to be removed from style-libraries.json:'
     );
     invalidRepos.forEach((repoUrl) => console.log(`- ${repoUrl}`));
   }

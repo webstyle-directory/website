@@ -16,7 +16,7 @@ Check completed item, when applicable, via: [X]
 
 If you added a new library:
 
-- [ ] Added it to **react-native-libraries.json**
+- [ ] Added it to **style-libraries.json**
 
 If you added a feature or fixed a bug:
 

@@ -15,41 +15,62 @@
         "type": "string",
         "title": "The Githuburl Schema",
         "default": "",
-        "examples": ["https://github.com/joshswan/react-native-autolink"],
+        "examples": ["https://github.com/webstyle-directory/website"],
         "pattern": "^(.*)$"
       },
-      "ios": {
-        "$id": "#/items/properties/ios",
+      "uiComponents": {
+        "$id": "#/items/properties/uiComponents",
         "type": "boolean",
-        "title": "The Ios Schema",
+        "title": "The uiComponents Schema",
         "default": false,
         "examples": [true]
       },
-      "android": {
-        "$id": "#/items/properties/android",
+      "templates": {
+        "$id": "#/items/properties/templates",
         "type": "boolean",
-        "title": "The Android Schema",
+        "title": "The templates Schema",
         "default": false,
         "examples": [true]
       },
-      "windows": {
-        "$id": "#/items/properties/windows",
+      "scss": {
+        "$id": "#/items/properties/scss",
         "type": "boolean",
-        "title": "The Windows Schema",
+        "title": "The scss Schema",
         "default": false,
         "examples": [true]
       },
-      "macos": {
-        "$id": "#/items/properties/macos",
+      "less": {
+        "$id": "#/items/properties/less",
         "type": "boolean",
-        "title": "The macOS Schema",
+        "title": "The less Schema",
         "default": false,
         "examples": [true]
       },
-      "expo": {
-        "$id": "#/items/properties/expo",
+      "vanilacss": {
+        "$id": "#/items/properties/vanilacss",
         "type": "boolean",
-        "title": "The Expo Schema",
+        "title": "The vanilacss Schema",
+        "default": false,
+        "examples": [true]
+      },
+      "react": {
+        "$id": "#/items/properties/react",
+        "type": "boolean",
+        "title": "The react Schema",
+        "default": false,
+        "examples": [true]
+      },
+      "angular": {
+        "$id": "#/items/properties/angular",
+        "type": "boolean",
+        "title": "The angular Schema",
+        "default": false,
+        "examples": [true]
+      },
+      "vue": {
+        "$id": "#/items/properties/vue",
+        "type": "boolean",
+        "title": "The vue Schema",
         "default": false,
         "examples": [true]
       },

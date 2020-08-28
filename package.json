@@ -7,7 +7,7 @@
     "lint": "eslint .",
     "data:update": "babel-node scripts/build-and-score-data.js --presets @babel/preset-env",
     "data:test": "babel-node scripts/validate-libraries.js --presets @babel/preset-env",
-    "data:validate": "ajv validate -s react-native-libraries.schema.json -d react-native-libraries.json",
+    "data:validate": "ajv validate -s style-libraries.schema.json -d style-libraries.json",
     "libraries:cleanup": "babel-node scripts/cleanup-libraries-json.js --presets @babel/preset-env"
   },
   "dependencies": {
@@ -71,7 +71,7 @@
       "eslint --fix",
       "prettier --write"
     ],
-    "react-native-libraries.json": [
+    "style-libraries.json": [
       "babel-node scripts/validate-libraries.js --presets @babel/preset-env",
       "prettier --write"
     ]
