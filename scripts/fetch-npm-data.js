@@ -21,7 +21,7 @@ const fetchNpmData = async (data, npmPkg, githubUrl) => {
 
     if (!downloadData.downloads) {
       console.log(
-        `${npmPkg} doesn't exist on npm registry, add npmPkg to its entry in react-native-libraries.json to clarify it`
+        `${npmPkg} doesn't exist on npm registry, add npmPkg to its entry in style-libraries.json to clarify it`
       );
       return { ...data, npm: {} };
     }

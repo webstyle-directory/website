@@ -16,7 +16,7 @@ jobs:
       run: yarn
     - name: Lint
       run: yarn lint
-    - name: Validate react-native-libraries.json
+    - name: Validate style-libraries.json
       run: yarn data:validate
-    - name: Test react-native-libraries.json
+    - name: Test style-libraries.json
       run: yarn data:test

@@ -2,9 +2,9 @@ import jsonfile from 'jsonfile';
 import _ from 'lodash';
 import path from 'path';
 
-import libraries from '../react-native-libraries.json';
+import libraries from '../style-libraries.json';
 
-const LIBRARIES_JSON_PATH = path.join('react-native-libraries.json');
+const LIBRARIES_JSON_PATH = path.join('style-libraries.json');
 
 const processedLibraries = libraries
   // Remove redundant `npmPkg` for libraries with correct GitHub repository name

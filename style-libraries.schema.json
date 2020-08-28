@@ -15,7 +15,7 @@
         "type": "string",
         "title": "The Githuburl Schema",
         "default": "",
-        "examples": ["https://github.com/joshswan/react-native-autolink"],
+        "examples": ["https://github.com/webstyle-directory/website"],
         "pattern": "^(.*)$"
       },
       "ios": {

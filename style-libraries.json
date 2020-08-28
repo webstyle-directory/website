@@ -42,5 +42,23 @@
     "less": false,
     "vanilacss": false,
     "react": true
+  },
+  {
+    "githubUrl": "https://github.com/animate-css/animate.css",
+    "uiComponents": false,
+    "templates": false,
+    "scss": false,
+    "less": false,
+    "vanilacss": true,
+    "react": false
+  },
+  {
+    "githubUrl": "https://github.com/getbase/base",
+    "uiComponents": false,
+    "templates": false,
+    "scss": true,
+    "less": true,
+    "vanilacss": true,
+    "react": false
   }
 ]

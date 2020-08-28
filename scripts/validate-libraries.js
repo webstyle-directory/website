@@ -1,6 +1,6 @@
 import _ from 'lodash';
 
-import libraries from '../react-native-libraries.json';
+import libraries from '../style-libraries.json';
 
 const GITHUB_URL_PATTERN = /^https:\/\/github\.com\/[\w-]+\/[\w-]+(\/tree\/[\w-\\/\\.]+)?$/g;
 

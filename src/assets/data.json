@@ -22,10 +22,10 @@
           "updatedAt": "2020-08-26T08:32:01Z",
           "createdAt": "2011-07-29T21:19:00Z",
           "pushedAt": "2020-08-26T08:32:01Z",
-          "forks": 67636,
-          "issues": 332,
-          "subscribers": 7160,
-          "stars": 143716
+          "forks": 67672,
+          "issues": 338,
+          "subscribers": 7154,
+          "stars": 143763
         },
         "name": "bootstrap",
         "fullName": "twbs/bootstrap",
@@ -57,9 +57,9 @@
       "images": [],
       "npmPkg": "bootstrap",
       "npm": {
-        "downloads": 11399048,
-        "start": "2020-07-27",
-        "end": "2020-08-25",
+        "downloads": 11402624,
+        "start": "2020-07-29",
+        "end": "2020-08-27",
         "period": "month"
       },
       "score": 75,
@@ -95,8 +95,8 @@
           "pushedAt": "2020-08-16T23:41:33Z",
           "forks": 2147,
           "issues": 5,
-          "subscribers": 788,
-          "stars": 21035
+          "subscribers": 787,
+          "stars": 21030
         },
         "name": "pure",
         "fullName": "pure-css/pure",
@@ -124,9 +124,9 @@
       "images": [],
       "npmPkg": "pure",
       "npm": {
-        "downloads": 577,
-        "start": "2020-07-27",
-        "end": "2020-08-25",
+        "downloads": 595,
+        "start": "2020-07-29",
+        "end": "2020-08-27",
         "period": "month"
       },
       "score": 88,
@@ -157,13 +157,13 @@
           "hasPages": true,
           "hasDownloads": true,
           "hasTopics": true,
-          "updatedAt": "2020-08-26T00:21:49Z",
+          "updatedAt": "2020-08-28T11:12:43Z",
           "createdAt": "2014-08-18T19:11:54Z",
-          "pushedAt": "2020-08-26T00:21:49Z",
-          "forks": 17379,
+          "pushedAt": "2020-08-28T11:12:43Z",
+          "forks": 17421,
           "issues": 418,
           "subscribers": 1344,
-          "stars": 60418
+          "stars": 60479
         },
         "name": "material-ui",
         "fullName": "mui-org/material-ui",
@@ -194,9 +194,9 @@
       "images": [],
       "npmPkg": "material-ui",
       "npm": {
-        "downloads": 570179,
-        "start": "2020-07-27",
-        "end": "2020-08-25",
+        "downloads": 571886,
+        "start": "2020-07-29",
+        "end": "2020-08-27",
         "period": "month"
       },
       "score": 75,
@@ -229,13 +229,13 @@
           "hasPages": true,
           "hasDownloads": true,
           "hasTopics": true,
-          "updatedAt": "2020-08-26T07:38:30Z",
+          "updatedAt": "2020-08-28T09:51:30Z",
           "createdAt": "2016-09-29T17:24:17Z",
-          "pushedAt": "2020-08-26T07:38:30Z",
-          "forks": 635,
-          "issues": 534,
-          "subscribers": 243,
-          "stars": 5980
+          "pushedAt": "2020-08-28T09:51:30Z",
+          "forks": 636,
+          "issues": 530,
+          "subscribers": 242,
+          "stars": 5988
         },
         "name": "clarity",
         "fullName": "vmware/clarity",
@@ -269,9 +269,9 @@
         "https://github.com/vmware/clarity/raw/master/logo.png"
       ],
       "npm": {
-        "downloads": 57921,
-        "start": "2020-07-27",
-        "end": "2020-08-25",
+        "downloads": 57870,
+        "start": "2020-07-29",
+        "end": "2020-08-27",
         "period": "month"
       },
       "score": 75,
@@ -303,13 +303,13 @@
           "hasPages": true,
           "hasDownloads": true,
           "hasTopics": true,
-          "updatedAt": "2020-08-26T01:38:12Z",
+          "updatedAt": "2020-08-27T22:11:01Z",
           "createdAt": "2018-03-09T01:32:10Z",
-          "pushedAt": "2020-08-26T01:38:12Z",
+          "pushedAt": "2020-08-27T22:11:01Z",
           "forks": 453,
-          "issues": 47,
-          "subscribers": 70,
-          "stars": 5024
+          "issues": 48,
+          "subscribers": 71,
+          "stars": 5053
         },
         "name": "baseweb",
         "fullName": "uber/baseweb",
@@ -340,9 +340,9 @@
       ],
       "npmPkg": "baseweb",
       "npm": {
-        "downloads": 53,
-        "start": "2020-07-27",
-        "end": "2020-08-25",
+        "downloads": 68,
+        "start": "2020-07-29",
+        "end": "2020-08-27",
         "period": "month"
       },
       "score": 88,
@@ -352,14 +352,156 @@
         "Recently updated"
       ],
       "topicSearchString": "react component-library react-components design-systems"
+    },
+    {
+      "githubUrl": "https://github.com/animate-css/animate.css",
+      "uiComponents": false,
+      "templates": false,
+      "scss": false,
+      "less": false,
+      "vanilacss": true,
+      "react": false,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/animate-css/animate.css",
+          "clone": "https://github.com/animate-css/animate.css.git",
+          "homepage": "https://animate.style/"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-26T08:02:13Z",
+          "createdAt": "2011-10-12T10:07:38Z",
+          "pushedAt": "2020-08-26T08:02:13Z",
+          "forks": 14400,
+          "issues": 4,
+          "subscribers": 2410,
+          "stars": 67755
+        },
+        "name": "animate.css",
+        "fullName": "animate-css/animate.css",
+        "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
+        "topics": [
+          "css-animations",
+          "css",
+          "animation",
+          "stylesheets"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "",
+          "tagName": "v4.1.0",
+          "createdAt": "2020-05-11T12:08:29Z",
+          "publishedAt": "2020-05-13T15:58:13Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [
+        "https://avatars2.githubusercontent.com/u/439365?s=460&u=512b4cc5324938ae40bbb8f3b7769d335953cd3a&v=4",
+        "https://avatars2.githubusercontent.com/u/5007208?s=460&u=418401ee605824272e5dcb955fd64ea24546a857&v=4",
+        "https://avatars1.githubusercontent.com/u/15052701?s=460&u=9e58364978379536d3f26c4ce5cae1a2a449a0e4&v=4"
+      ],
+      "npmPkg": "animate.css",
+      "npm": {
+        "downloads": 717179,
+        "start": "2020-07-29",
+        "end": "2020-08-27",
+        "period": "month"
+      },
+      "score": 88,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Recently updated"
+      ],
+      "topicSearchString": "css-animations css animation stylesheets"
+    },
+    {
+      "githubUrl": "https://github.com/getbase/base",
+      "uiComponents": false,
+      "templates": false,
+      "scss": true,
+      "less": true,
+      "vanilacss": true,
+      "react": false,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/getbase/base",
+          "clone": "https://github.com/getbase/base.git",
+          "homepage": "http://getbase.org"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-05-10T06:51:12Z",
+          "createdAt": "2011-12-30T05:13:13Z",
+          "pushedAt": "2020-05-10T06:51:12Z",
+          "forks": 116,
+          "issues": 1,
+          "subscribers": 68,
+          "stars": 1176
+        },
+        "name": "base",
+        "fullName": "getbase/base",
+        "description": "Base - A Rock Solid, Responsive CSS Framework built to work on all devices big, small and in-between.",
+        "topics": [
+          "css",
+          "scss",
+          "less",
+          "framework",
+          "mobile-first",
+          "lightweight",
+          "responsive"
+        ],
+        "license": {
+          "name": "MIT License",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz",
+          "key": "mit",
+          "spdxId": "MIT"
+        },
+        "lastRelease": {
+          "name": "Base 5.2.0 Released!",
+          "tagName": "v5.2.0",
+          "createdAt": "2020-05-10T06:51:33Z",
+          "publishedAt": "2020-05-10T06:52:08Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "base",
+      "npm": {
+        "downloads": 54801579,
+        "start": "2020-07-29",
+        "end": "2020-08-27",
+        "period": "month"
+      },
+      "score": 81,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular"
+      ],
+      "topicSearchString": "css scss less framework mobile-first lightweight responsive"
     }
   ],
   "topics": {
-    "css": 3,
+    "css": 5,
     "bootstrap": 1,
     "javascript": 2,
     "html": 2,
-    "scss": 1,
+    "scss": 2,
     "css-framework": 1,
     "sass": 1,
     "pure": 1,
@@ -373,25 +515,41 @@
     "angular": 1,
     "component-library": 2,
     "design-system": 1,
-    "clarity": 1
+    "clarity": 1,
+    "css-animations": 1,
+    "animation": 1,
+    "stylesheets": 1,
+    "less": 1,
+    "framework": 1,
+    "mobile-first": 1,
+    "lightweight": 1,
+    "responsive": 1
   },
   "topicsList": [
     "angular",
+    "animation",
     "bootstrap",
     "clarity",
     "component-library",
     "css",
+    "css-animations",
     "css-framework",
     "design-system",
     "design-systems",
+    "framework",
     "html",
     "javascript",
+    "less",
+    "lightweight",
     "material-design",
+    "mobile-first",
     "pure",
     "react",
     "react-components",
+    "responsive",
     "sass",
     "scss",
+    "stylesheets",
     "typescript",
     "ui",
     "ux"
