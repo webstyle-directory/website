@@ -114,5 +114,20 @@
     "less": true,
     "vanilacss": true,
     "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/tailwindlabs/tailwindcss",
+    "uiComponents": true,
+    "vanilacss": true
+  },
+  {
+    "githubUrl": "https://github.com/grommet/grommet",
+    "uiComponents": true,
+    "react": true
+  },
+  {
+    "githubUrl": "https://github.com/Shopify/polaris-react",
+    "uiComponents": true,
+    "react": true
   }
 ]
