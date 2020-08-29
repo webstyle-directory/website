@@ -36,6 +36,7 @@ export default function Search(props: Props) {
               },
             ]}>
             <View style={styles.container}>
+            <P style={styles.desc}>A directory to find style libraries for your Websites, Web Applications and React Native apps.</P>
               <View style={styles.displayHorizontal}>
                 <TextInput
                   onChangeText={debouncedCallback}
@@ -131,5 +132,9 @@ const styles = StyleSheet.create({
   totalText: {
     color: colors.white,
     marginTop: 4,
+  },
+  desc: {
+    color: colors.white,
+    marginBottom: 12,
   },
 });
