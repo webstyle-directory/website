@@ -80,7 +80,6 @@
   },
   {
     "githubUrl": "https://github.com/dhg/Skeleton",
-    "uiComponents": true,
     "vanilacss": true
   },
   {
@@ -117,7 +116,6 @@
   },
   {
     "githubUrl": "https://github.com/tailwindlabs/tailwindcss",
-    "uiComponents": true,
     "vanilacss": true
   },
   {
@@ -165,5 +163,17 @@
     "githubUrl": "https://github.com/GeekyAnts/NativeBase",
     "uiComponents": true,
     "reactnative": true
+  },
+  {
+    "githubUrl": "https://github.com/dogfalo/materialize",
+    "uiComponents": true,
+    "templates": true,
+    "scss": true,
+    "vanilacss": true
+  },
+  {
+    "githubUrl": "https://github.com/milligram/milligram",
+    "scss": true,
+    "vanilacss": true
   }
 ]
