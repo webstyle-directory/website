@@ -2,10 +2,11 @@ import Document, { Html, Head, Main, NextScript } from 'next/document';
 import React from 'react';
 
 import Favicons from '../components/Favicons';
+import GoogleAnalytics from '../components/GoogleAnalytics';
 
 const site = {
-  title: 'React Native Directory',
-  description: 'A directory to find packages for your React Native apps',
+  title: 'Web Style Directory',
+  description: 'A directory to find style libraries for your Websites, Web Applications and React Native apps.',
 };
 
 class DirectoryWebsite extends Document {
@@ -18,6 +19,7 @@ class DirectoryWebsite extends Document {
     <Html lang="en">
       <Head>
         <Favicons />
+        <GoogleAnalytics id="UA-176753436-1" />
         {injectMeta.map((value, index) => (
           <meta key={`meta-${index}`} {...value} />
         ))}
@@ -51,7 +53,7 @@ const injectMeta = [
   },
   {
     property: 'og:url',
-    content: 'https://reactnative.directory',
+    content: 'https://webstyle-directory.vercel.app/',
   },
   {
     property: 'og:type',
@@ -71,7 +73,7 @@ const injectMeta = [
     name: 'theme-color',
     content: themeColor,
   },
-  { name: 'twitter:card', content: 'Find packages for your apps' },
+  { name: 'twitter:card', content: 'Find libraries for your Websites, Web Applications and React Native apps' },
   { name: 'twitter:title', content: site.title },
   { name: 'twitter:description', content: site.description },
 

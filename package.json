@@ -8,6 +8,7 @@
     "data:update": "babel-node scripts/build-and-score-data.js --presets @babel/preset-env",
     "data:test": "babel-node scripts/validate-libraries.js --presets @babel/preset-env",
     "data:validate": "ajv validate -s style-libraries.schema.json -d style-libraries.json",
+    "test": "yarn data:test && yarn data:validate",
     "libraries:cleanup": "babel-node scripts/cleanup-libraries-json.js --presets @babel/preset-env"
   },
   "dependencies": {

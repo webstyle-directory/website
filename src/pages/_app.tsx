@@ -15,7 +15,7 @@ import '../styles/styles.css';
 import PreviewStyles from '../styles/PreviewStyles';
 
 Sentry.init({
-  dsn: 'https://5b1385a5a9844d4d801a166909947918@o435830.ingest.sentry.io/5395837',
+  dsn: 'https://f6af5c9c86424f13bfe4643dca461259@o440700.ingest.sentry.io/5410249',
   enabled: process.env.NODE_ENV === 'production',
 });
 
@@ -31,7 +31,7 @@ const App = ({ pageProps, Component }) => {
                 backgroundColor: context.isDark ? darkColors.background : colors.white,
               }}>
               <Head>
-                <title>Web Style Directory</title>
+                <title>Web Style Directory - A directory to find style libraries for your Websites, Web Applications and React Native apps.</title>
               </Head>
               <Header />
               <Component {...pageProps} />

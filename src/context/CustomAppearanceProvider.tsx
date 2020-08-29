@@ -5,7 +5,7 @@ import { useColorScheme } from 'react-native-appearance';
 
 import CustomAppearanceContext from './CustomAppearanceContext';
 
-const appearanceStorageKey = '@ReactNativeDirectory:CustomAppearanceContext';
+const appearanceStorageKey = '@WebStyleDirectory:CustomAppearanceContext';
 const shouldRehydrate = true;
 
 const defaultState = { isDark: false };

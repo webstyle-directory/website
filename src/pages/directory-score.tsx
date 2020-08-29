@@ -51,7 +51,7 @@ const DirectoryScore = () => {
       </P>
       <Headline style={[styles.criterion, textColorStyle]}>Recommended (+20)</Headline>
       <P style={[styles.paragraph, textColorStyle]}>
-        The maintainers of React Native Directory hand pick select recommended libraries.
+        The maintainers of Web Style Directory hand pick select recommended libraries.
       </P>
       <Headline style={[styles.criterion, textColorStyle]}>Recently updated (+10)</Headline>
       <P style={[styles.paragraph, textColorStyle]}>
