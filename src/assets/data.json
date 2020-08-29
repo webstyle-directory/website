@@ -20,10 +20,10 @@
           "updatedAt": "2020-08-26T08:32:01Z",
           "createdAt": "2011-07-29T21:19:00Z",
           "pushedAt": "2020-08-26T08:32:01Z",
-          "forks": 67673,
-          "issues": 339,
-          "subscribers": 7155,
-          "stars": 143768
+          "forks": 67675,
+          "issues": 341,
+          "subscribers": 7158,
+          "stars": 143777
         },
         "name": "bootstrap",
         "fullName": "twbs/bootstrap",
@@ -55,9 +55,9 @@
       "images": [],
       "npmPkg": "bootstrap",
       "npm": {
-        "downloads": 11402624,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 11303120,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -120,9 +120,9 @@
       "images": [],
       "npmPkg": "pure",
       "npm": {
-        "downloads": 595,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 624,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 88,
@@ -153,10 +153,10 @@
           "updatedAt": "2020-08-28T16:21:12Z",
           "createdAt": "2014-08-18T19:11:54Z",
           "pushedAt": "2020-08-28T16:21:12Z",
-          "forks": 17424,
+          "forks": 17432,
           "issues": 417,
           "subscribers": 1344,
-          "stars": 60486
+          "stars": 60500
         },
         "name": "material-ui",
         "fullName": "mui-org/material-ui",
@@ -187,9 +187,9 @@
       "images": [],
       "npmPkg": "material-ui",
       "npm": {
-        "downloads": 571886,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 561757,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -220,11 +220,11 @@
           "hasPages": true,
           "hasDownloads": true,
           "hasTopics": true,
-          "updatedAt": "2020-08-28T16:48:10Z",
+          "updatedAt": "2020-08-28T20:36:01Z",
           "createdAt": "2016-09-29T17:24:17Z",
-          "pushedAt": "2020-08-28T16:48:10Z",
+          "pushedAt": "2020-08-28T20:36:01Z",
           "forks": 636,
-          "issues": 528,
+          "issues": 527,
           "subscribers": 242,
           "stars": 5988
         },
@@ -260,9 +260,9 @@
         "https://github.com/vmware/clarity/raw/master/logo.png"
       ],
       "npm": {
-        "downloads": 57870,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 57328,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -291,11 +291,11 @@
           "hasPages": true,
           "hasDownloads": true,
           "hasTopics": true,
-          "updatedAt": "2020-08-27T22:11:01Z",
+          "updatedAt": "2020-08-28T18:23:44Z",
           "createdAt": "2018-03-09T01:32:10Z",
-          "pushedAt": "2020-08-27T22:11:01Z",
+          "pushedAt": "2020-08-28T18:23:44Z",
           "forks": 452,
-          "issues": 48,
+          "issues": 50,
           "subscribers": 71,
           "stars": 5055
         },
@@ -328,9 +328,9 @@
       ],
       "npmPkg": "baseweb",
       "npm": {
-        "downloads": 68,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 67,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 88,
@@ -365,7 +365,7 @@
           "forks": 5612,
           "issues": 272,
           "subscribers": 1376,
-          "stars": 28751
+          "stars": 28752
         },
         "name": "foundation-sites",
         "fullName": "foundation/foundation-sites",
@@ -400,9 +400,9 @@
       "images": [],
       "npmPkg": "foundation-sites",
       "npm": {
-        "downloads": 468315,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 462907,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -470,9 +470,9 @@
       "images": [],
       "npmPkg": "base",
       "npm": {
-        "downloads": 54801579,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 54406699,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 81,
@@ -504,9 +504,9 @@
           "createdAt": "2016-01-23T23:48:34Z",
           "pushedAt": "2020-08-27T09:46:39Z",
           "forks": 3443,
-          "issues": 231,
+          "issues": 230,
           "subscribers": 673,
-          "stars": 40956
+          "stars": 40960
         },
         "name": "bulma",
         "fullName": "jgthms/bulma",
@@ -536,9 +536,9 @@
       "images": [],
       "npmPkg": "bulma",
       "npm": {
-        "downloads": 734309,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 729032,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -603,9 +603,9 @@
       "images": [],
       "npmPkg": "react-bulma-components",
       "npm": {
-        "downloads": 9400,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 9414,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 56,
@@ -633,10 +633,10 @@
           "updatedAt": "2020-08-26T17:06:02Z",
           "createdAt": "2013-12-27T19:06:07Z",
           "pushedAt": "2020-08-26T17:06:02Z",
-          "forks": 2822,
+          "forks": 2823,
           "issues": 81,
           "subscribers": 462,
-          "stars": 18184
+          "stars": 18187
         },
         "name": "react-bootstrap",
         "fullName": "react-bootstrap/react-bootstrap",
@@ -663,9 +663,9 @@
       "images": [],
       "npmPkg": "react-bootstrap",
       "npm": {
-        "downloads": 2874189,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 2832994,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -697,7 +697,7 @@
           "createdAt": "2015-09-14T22:55:53Z",
           "pushedAt": "2020-08-18T07:44:43Z",
           "forks": 1343,
-          "issues": 236,
+          "issues": 237,
           "subscribers": 275,
           "stars": 7553
         },
@@ -727,9 +727,9 @@
       "images": [],
       "npmPkg": "ng-bootstrap",
       "npm": {
-        "downloads": 17199,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 17051,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -760,8 +760,8 @@
           "updatedAt": "2020-08-27T22:21:34Z",
           "createdAt": "2016-02-19T08:01:36Z",
           "pushedAt": "2020-08-27T22:21:34Z",
-          "forks": 1088,
-          "issues": 210,
+          "forks": 1089,
+          "issues": 211,
           "subscribers": 197,
           "stars": 9466
         },
@@ -794,9 +794,9 @@
       "images": [],
       "npmPkg": "reactstrap",
       "npm": {
-        "downloads": 1585418,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 1581387,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -828,9 +828,9 @@
           "createdAt": "2016-10-08T15:59:35Z",
           "pushedAt": "2020-08-28T14:30:01Z",
           "forks": 1567,
-          "issues": 134,
-          "subscribers": 290,
-          "stars": 12086
+          "issues": 135,
+          "subscribers": 291,
+          "stars": 12089
         },
         "name": "bootstrap-vue",
         "fullName": "bootstrap-vue/bootstrap-vue",
@@ -868,9 +868,9 @@
       ],
       "npmPkg": "bootstrap-vue",
       "npm": {
-        "downloads": 1147156,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 1138349,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -884,7 +884,6 @@
     },
     {
       "githubUrl": "https://github.com/dhg/Skeleton",
-      "uiComponents": true,
       "vanilacss": true,
       "github": {
         "urls": {
@@ -900,7 +899,7 @@
           "updatedAt": "2014-12-29T18:29:28Z",
           "createdAt": "2011-04-30T20:04:24Z",
           "pushedAt": "2014-12-29T18:29:28Z",
-          "forks": 2910,
+          "forks": 2912,
           "issues": 71,
           "subscribers": 514,
           "stars": 17776
@@ -955,7 +954,7 @@
           "pushedAt": "2020-08-28T15:17:09Z",
           "forks": 2182,
           "issues": 599,
-          "subscribers": 705,
+          "subscribers": 706,
           "stars": 16200
         },
         "name": "uikit",
@@ -980,9 +979,9 @@
       "images": [],
       "npmPkg": "uikit",
       "npm": {
-        "downloads": 127486,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 125985,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -1010,12 +1009,12 @@
           "hasPages": true,
           "hasDownloads": true,
           "hasTopics": true,
-          "updatedAt": "2020-08-28T17:11:44Z",
+          "updatedAt": "2020-08-28T23:57:59Z",
           "createdAt": "2016-06-06T15:03:44Z",
-          "pushedAt": "2020-08-28T17:11:44Z",
+          "pushedAt": "2020-08-28T23:57:59Z",
           "forks": 1632,
-          "issues": 879,
-          "subscribers": 264,
+          "issues": 881,
+          "subscribers": 265,
           "stars": 9274
         },
         "name": "fluentui",
@@ -1134,13 +1133,13 @@
           "hasPages": true,
           "hasDownloads": true,
           "hasTopics": true,
-          "updatedAt": "2020-08-28T15:08:33Z",
+          "updatedAt": "2020-08-29T04:11:22Z",
           "createdAt": "2015-04-24T15:37:24Z",
-          "pushedAt": "2020-08-28T15:08:33Z",
-          "forks": 23694,
+          "pushedAt": "2020-08-29T04:11:22Z",
+          "forks": 23697,
           "issues": 470,
-          "subscribers": 1596,
-          "stars": 62902
+          "subscribers": 1597,
+          "stars": 62909
         },
         "name": "ant-design",
         "fullName": "ant-design/ant-design",
@@ -1171,9 +1170,9 @@
       "images": [],
       "npmPkg": "ant-design",
       "npm": {
-        "downloads": 2311,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 2329,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -1207,7 +1206,7 @@
           "createdAt": "2017-08-08T14:59:33Z",
           "pushedAt": "2020-08-27T12:01:25Z",
           "forks": 2305,
-          "issues": 337,
+          "issues": 338,
           "subscribers": 246,
           "stars": 6770
         },
@@ -1244,9 +1243,9 @@
       "images": [],
       "npmPkg": "ng-zorro-antd",
       "npm": {
-        "downloads": 108108,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 107564,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -1260,7 +1259,6 @@
     },
     {
       "githubUrl": "https://github.com/tailwindlabs/tailwindcss",
-      "uiComponents": true,
       "vanilacss": true,
       "github": {
         "urls": {
@@ -1279,8 +1277,8 @@
           "pushedAt": "2020-08-28T13:32:42Z",
           "forks": 1217,
           "issues": 22,
-          "subscribers": 440,
-          "stars": 26878
+          "subscribers": 439,
+          "stars": 26883
         },
         "name": "tailwindcss",
         "fullName": "tailwindlabs/tailwindcss",
@@ -1312,9 +1310,9 @@
       "images": [],
       "npmPkg": "tailwindcss",
       "npm": {
-        "downloads": 1589344,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 1580891,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 88,
@@ -1347,7 +1345,7 @@
           "forks": 748,
           "issues": 198,
           "subscribers": 141,
-          "stars": 6588
+          "stars": 6589
         },
         "name": "grommet",
         "fullName": "grommet/grommet",
@@ -1379,9 +1377,9 @@
       "images": [],
       "npmPkg": "grommet",
       "npm": {
-        "downloads": 86984,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 85743,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -1415,7 +1413,7 @@
           "forks": 638,
           "issues": 138,
           "subscribers": 239,
-          "stars": 3542
+          "stars": 3543
         },
         "name": "polaris-react",
         "fullName": "Shopify/polaris-react",
@@ -1444,9 +1442,9 @@
       "images": [],
       "npmPkg": "polaris-react",
       "npm": {
-        "downloads": 9,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 8,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 75,
@@ -1477,10 +1475,10 @@
           "updatedAt": "2020-08-28T11:14:01Z",
           "createdAt": "2016-10-19T05:56:53Z",
           "pushedAt": "2020-08-28T11:14:01Z",
-          "forks": 919,
+          "forks": 920,
           "issues": 74,
           "subscribers": 102,
-          "stars": 6393
+          "stars": 6395
         },
         "name": "react-native-paper",
         "fullName": "callstack/react-native-paper",
@@ -1510,9 +1508,9 @@
       ],
       "npmPkg": "react-native-paper",
       "npm": {
-        "downloads": 201196,
-        "start": "2020-07-29",
-        "end": "2020-08-27",
+        "downloads": 199159,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
         "period": "month"
       },
       "score": 88,
@@ -1522,52 +1520,2046 @@
         "Recently updated"
       ],
       "topicSearchString": "react-native material-design ui-kit"
+    },
+    {
+      "githubUrl": "https://github.com/wix/react-native-ui-lib",
+      "uiComponents": true,
+      "reactnative": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/wix/react-native-ui-lib",
+          "clone": "https://github.com/wix/react-native-ui-lib.git",
+          "homepage": "https://wix.github.io/react-native-ui-lib/"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-27T15:16:31Z",
+          "createdAt": "2017-02-08T09:55:18Z",
+          "pushedAt": "2020-08-27T15:16:31Z",
+          "forks": 277,
+          "issues": 18,
+          "subscribers": 318,
+          "stars": 2417
+        },
+        "name": "react-native-ui-lib",
+        "fullName": "wix/react-native-ui-lib",
+        "description": "UI Components Library for React Native",
+        "topics": [
+          "react-native",
+          "ui",
+          "components",
+          "ios",
+          "android",
+          "tools"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "",
+          "tagName": "5.13.0",
+          "createdAt": "2020-08-24T09:49:47Z",
+          "publishedAt": "2020-08-24T10:03:02Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [
+        "https://user-images.githubusercontent.com/1780255/64093084-a11b0300-cd5f-11e9-9175-a7b4d2b717a7.png",
+        "https://user-images.githubusercontent.com/1780255/72094962-3044b280-3320-11ea-8e41-aa83743bafb9.gif",
+        "https://user-images.githubusercontent.com/1780255/72094961-3044b280-3320-11ea-95e2-9aa745c8b07d.gif",
+        "https://user-images.githubusercontent.com/1780255/72094958-2fac1c00-3320-11ea-8f67-9d759cfa4ae1.gif",
+        "https://user-images.githubusercontent.com/1780255/76164023-f2171400-6153-11ea-962d-d57b64a08a80.png"
+      ],
+      "npmPkg": "react-native-ui-lib",
+      "npm": {
+        "downloads": 53061,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 88,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Recently updated"
+      ],
+      "topicSearchString": "react-native ui components ios android tools"
+    },
+    {
+      "githubUrl": "https://github.com/akveo/react-native-ui-kitten",
+      "uiComponents": true,
+      "reactnative": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/akveo/react-native-ui-kitten",
+          "clone": "https://github.com/akveo/react-native-ui-kitten.git",
+          "homepage": "https://akveo.github.io/react-native-ui-kitten/"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-06-24T09:46:43Z",
+          "createdAt": "2016-12-20T08:22:38Z",
+          "pushedAt": "2020-06-24T09:46:43Z",
+          "forks": 741,
+          "issues": 76,
+          "subscribers": 133,
+          "stars": 7088
+        },
+        "name": "react-native-ui-kitten",
+        "fullName": "akveo/react-native-ui-kitten",
+        "description": ":boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode",
+        "topics": [
+          "react",
+          "react-native",
+          "ui-kit"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "",
+          "tagName": "v5.0.0",
+          "createdAt": "2020-05-12T15:26:45Z",
+          "publishedAt": "2020-05-12T15:36:19Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [
+        "https://camo.githubusercontent.com/f0487d92194f3c685213539c53e9784113cd8a4b/68747470733a2f2f692e696d6775722e636f6d2f58384f344748622e706e67"
+      ],
+      "npmPkg": "react-native-ui-kitten",
+      "npm": {
+        "downloads": 5742,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 69,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues"
+      ],
+      "topicSearchString": "react react-native ui-kit"
+    },
+    {
+      "githubUrl": "https://github.com/react-native-elements/react-native-elements",
+      "uiComponents": true,
+      "reactnative": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/react-native-elements/react-native-elements",
+          "clone": "https://github.com/react-native-elements/react-native-elements.git",
+          "homepage": "https://react-native-elements.github.io/react-native-elements/"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-27T02:21:19Z",
+          "createdAt": "2016-09-08T14:21:41Z",
+          "pushedAt": "2020-08-27T02:21:19Z",
+          "forks": 3836,
+          "issues": 32,
+          "subscribers": 381,
+          "stars": 19263
+        },
+        "name": "react-native-elements",
+        "fullName": "react-native-elements/react-native-elements",
+        "description": "Cross Platform React Native UI Toolkit",
+        "topics": [
+          "ui-components",
+          "react-native",
+          "ios",
+          "android"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "2.3.0 Release",
+          "tagName": "v2.3.0",
+          "createdAt": "2020-08-27T02:21:19Z",
+          "publishedAt": "2020-08-27T02:33:07Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [
+        "https://user-images.githubusercontent.com/5962998/37248832-a7060286-24b1-11e8-94a8-847ab6ded4ec.png"
+      ],
+      "npmPkg": "react-native-elements",
+      "npm": {
+        "downloads": 363700,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 88,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Recently updated"
+      ],
+      "topicSearchString": "ui-components react-native ios android"
+    },
+    {
+      "githubUrl": "https://github.com/ant-design/ant-design-mobile",
+      "uiComponents": true,
+      "react": true,
+      "reactnative": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/ant-design/ant-design-mobile",
+          "clone": "https://github.com/ant-design/ant-design-mobile.git",
+          "homepage": "https://mobile.ant.design"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-05-19T08:26:13Z",
+          "createdAt": "2015-11-30T03:33:06Z",
+          "pushedAt": "2020-05-19T08:26:13Z",
+          "forks": 1356,
+          "issues": 490,
+          "subscribers": 286,
+          "stars": 8423
+        },
+        "name": "ant-design-mobile",
+        "fullName": "ant-design/ant-design-mobile",
+        "description": "A configurable Mobile UI",
+        "topics": [
+          "react",
+          "javascript",
+          "typescript",
+          "mobile",
+          "react-components",
+          "antd",
+          "antd-mobile"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "",
+          "tagName": "2.3.2",
+          "createdAt": "2020-05-14T05:50:24Z",
+          "publishedAt": "2020-05-14T06:10:21Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "ant-design-mobile",
+      "npm": {},
+      "score": 38,
+      "matchingScoreModifiers": [
+        "Lots of open issues"
+      ],
+      "topicSearchString": "react javascript typescript mobile react-components antd antd-mobile"
+    },
+    {
+      "githubUrl": "https://github.com/ant-design/ant-design-mobile-rn",
+      "uiComponents": true,
+      "reactnative": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/ant-design/ant-design-mobile-rn",
+          "clone": "https://github.com/ant-design/ant-design-mobile-rn.git",
+          "homepage": "https://rn.mobile.ant.design/"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-11T13:08:58Z",
+          "createdAt": "2018-05-02T08:38:52Z",
+          "pushedAt": "2020-08-11T13:08:58Z",
+          "forks": 450,
+          "issues": 6,
+          "subscribers": 42,
+          "stars": 1946
+        },
+        "name": "ant-design-mobile-rn",
+        "fullName": "ant-design/ant-design-mobile-rn",
+        "description": "Ant Design for React Native",
+        "topics": [
+          "react",
+          "react-native",
+          "antd-mobile",
+          "javascript",
+          "ios",
+          "android",
+          "typescript"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "4.0.0",
+          "tagName": "4.0.0",
+          "createdAt": "2020-06-14T07:51:21Z",
+          "publishedAt": "2020-04-30T08:25:01Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "ant-design-mobile-rn",
+      "npm": {},
+      "score": 56,
+      "matchingScoreModifiers": [
+        "Recently updated"
+      ],
+      "topicSearchString": "react react-native antd-mobile javascript ios android typescript"
+    },
+    {
+      "githubUrl": "https://github.com/GeekyAnts/NativeBase",
+      "uiComponents": true,
+      "reactnative": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/GeekyAnts/NativeBase",
+          "clone": "https://github.com/GeekyAnts/NativeBase.git",
+          "homepage": "https://nativebase.io/"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-19T08:17:00Z",
+          "createdAt": "2016-04-15T11:37:23Z",
+          "pushedAt": "2020-08-19T08:17:00Z",
+          "forks": 1685,
+          "issues": 238,
+          "subscribers": 265,
+          "stars": 14185
+        },
+        "name": "NativeBase",
+        "fullName": "GeekyAnts/NativeBase",
+        "description": "Essential cross-platform UI components for React Native",
+        "topics": [
+          "react-native",
+          "nativebase",
+          "ui-components",
+          "native-platforms",
+          "ios",
+          "android"
+        ],
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "url": "http://choosealicense.com/licenses/apache-2.0/",
+          "id": "MDc6TGljZW5zZTI="
+        },
+        "lastRelease": {
+          "name": "Fixes version compatibility issues",
+          "tagName": "v2.13.13",
+          "createdAt": "2020-07-20T13:00:25Z",
+          "publishedAt": "2020-07-20T13:02:03Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [
+        "https://github.com/GeekyAnts/NativeBase-KitchenSink/raw/master/screenshots/iOS.gif",
+        "https://github.com/GeekyAnts/NativeBase-KitchenSink/raw/master/screenshots/Android.gif"
+      ],
+      "npmPkg": "NativeBase",
+      "npm": {},
+      "score": 44,
+      "matchingScoreModifiers": [
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "topicSearchString": "react-native nativebase ui-components native-platforms ios android"
+    },
+    {
+      "githubUrl": "https://github.com/dogfalo/materialize",
+      "uiComponents": true,
+      "templates": true,
+      "scss": true,
+      "vanilacss": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/Dogfalo/materialize",
+          "clone": "https://github.com/Dogfalo/materialize.git",
+          "homepage": "https://materializecss.com"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-06-01T16:39:49Z",
+          "createdAt": "2014-09-12T19:35:38Z",
+          "pushedAt": "2020-06-01T16:39:49Z",
+          "forks": 4737,
+          "issues": 597,
+          "subscribers": 1087,
+          "stars": 37948
+        },
+        "name": "materialize",
+        "fullName": "Dogfalo/materialize",
+        "description": "Materialize, a CSS Framework based on Material Design",
+        "topics": [
+          "design",
+          "css",
+          "framework",
+          "javascript",
+          "material-design",
+          "material",
+          "css-framework"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "1.0.0",
+          "tagName": "1.0.0",
+          "createdAt": "2018-09-09T22:05:09Z",
+          "publishedAt": "2018-09-09T22:16:00Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "materialize",
+      "npm": {
+        "downloads": 2700,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 69,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues"
+      ],
+      "topicSearchString": "design css framework javascript material-design material css-framework"
+    },
+    {
+      "githubUrl": "https://github.com/milligram/milligram",
+      "scss": true,
+      "vanilacss": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/milligram/milligram",
+          "clone": "https://github.com/milligram/milligram.git",
+          "homepage": "https://milligram.io"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": false,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-06-18T18:38:46Z",
+          "createdAt": "2015-12-10T17:03:36Z",
+          "pushedAt": "2020-06-18T18:38:46Z",
+          "forks": 492,
+          "issues": 20,
+          "subscribers": 180,
+          "stars": 8918
+        },
+        "name": "milligram",
+        "fullName": "milligram/milligram",
+        "description": "A minimalist CSS framework.",
+        "topics": [
+          "milligram",
+          "css",
+          "html",
+          "framework",
+          "css-framework",
+          "design",
+          "minimalist",
+          "flexbox",
+          "amp"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "v1.4.1",
+          "tagName": "v1.4.1",
+          "createdAt": "2020-06-18T18:53:05Z",
+          "publishedAt": "2020-06-18T18:54:29Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "milligram",
+      "npm": {
+        "downloads": 13326,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 81,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular"
+      ],
+      "topicSearchString": "milligram css html framework css-framework design minimalist flexbox amp"
+    },
+    {
+      "githubUrl": "https://github.com/ElemeFE/element",
+      "uiComponents": true,
+      "vue": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/ElemeFE/element",
+          "clone": "https://github.com/ElemeFE/element.git",
+          "homepage": "https://element.eleme.io/"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-18T02:22:19Z",
+          "createdAt": "2016-09-03T06:19:26Z",
+          "pushedAt": "2020-08-18T02:22:19Z",
+          "forks": 11118,
+          "issues": 1664,
+          "subscribers": 1384,
+          "stars": 47002
+        },
+        "name": "element",
+        "fullName": "ElemeFE/element",
+        "description": "A Vue.js 2.0 UI Toolkit for Web",
+        "topics": [
+          "vue",
+          "components",
+          "javascript",
+          "vue-components",
+          "ui-kit",
+          "element-ui",
+          "vuejs"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "2.13.2",
+          "tagName": "v2.13.2",
+          "createdAt": "2020-05-18T09:45:09Z",
+          "publishedAt": "2020-05-18T10:06:20Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [
+        "http://img.badgesize.io/https://unpkg.com/element-ui/lib/index.js?compression=gzip&label=gzip%20size:%20JS",
+        "http://img.badgesize.io/https://unpkg.com/element-ui/lib/theme-chalk/index.css?compression=gzip&label=gzip%20size:%20CSS",
+        "https://user-images.githubusercontent.com/14025786/44833997-5d7c4d80-ac62-11e8-8445-1dffec0eb13c.png",
+        "https://user-images.githubusercontent.com/17680888/66537329-9a4b9100-eb52-11e9-9d99-65469cfdae58.jpeg"
+      ],
+      "npmPkg": "element",
+      "npm": {
+        "downloads": 3605,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 75,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "topicSearchString": "vue components javascript vue-components ui-kit element-ui vuejs"
+    },
+    {
+      "githubUrl": "https://github.com/vuetifyjs/vuetify",
+      "uiComponents": true,
+      "vue": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/vuetifyjs/vuetify",
+          "clone": "https://github.com/vuetifyjs/vuetify.git",
+          "homepage": "https://vuetifyjs.com"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-25T18:28:14Z",
+          "createdAt": "2016-09-12T00:39:35Z",
+          "pushedAt": "2020-08-25T18:28:14Z",
+          "forks": 4762,
+          "issues": 1247,
+          "subscribers": 601,
+          "stars": 27292
+        },
+        "name": "vuetify",
+        "fullName": "vuetifyjs/vuetify",
+        "description": "🐉 Material Component Framework for Vue",
+        "topics": [
+          "vue",
+          "vuejs",
+          "vuejs2",
+          "vue2",
+          "vue-components",
+          "vue-component",
+          "material-design",
+          "material",
+          "material-theme",
+          "material-components"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "v2.3.10",
+          "tagName": "v2.3.10",
+          "createdAt": "2020-08-25T18:28:55Z",
+          "publishedAt": "2020-08-25T18:36:41Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "vuetify",
+      "npm": {
+        "downloads": 1178912,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 75,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "topicSearchString": "vue vuejs vuejs2 vue2 vue-components vue-component material-design material material-theme material-components"
+    },
+    {
+      "githubUrl": "https://github.com/buefy/buefy",
+      "uiComponents": true,
+      "vue": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/buefy/buefy",
+          "clone": "https://github.com/buefy/buefy.git",
+          "homepage": "https://buefy.org"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-28T16:40:54Z",
+          "createdAt": "2017-03-31T16:44:48Z",
+          "pushedAt": "2020-08-28T16:40:54Z",
+          "forks": 852,
+          "issues": 55,
+          "subscribers": 119,
+          "stars": 7912
+        },
+        "name": "buefy",
+        "fullName": "buefy/buefy",
+        "description": "Lightweight UI components for Vue.js based on Bulma",
+        "topics": [
+          "vue",
+          "bulma",
+          "vue-admin",
+          "vue-bulma",
+          "components",
+          "vuejs"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "v0.9.2",
+          "tagName": "v0.9.2",
+          "createdAt": "2020-08-21T09:56:05Z",
+          "publishedAt": "2020-08-21T10:02:49Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "buefy",
+      "npm": {
+        "downloads": 177727,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 88,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Recently updated"
+      ],
+      "topicSearchString": "vue bulma vue-admin vue-bulma components vuejs"
+    },
+    {
+      "githubUrl": "https://github.com/vuematerial/vue-material",
+      "uiComponents": true,
+      "vue": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/vuematerial/vue-material",
+          "clone": "https://github.com/vuematerial/vue-material.git",
+          "homepage": "https://vuematerial.io"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-24T11:55:26Z",
+          "createdAt": "2016-06-17T22:41:53Z",
+          "pushedAt": "2020-08-24T11:55:26Z",
+          "forks": 1065,
+          "issues": 208,
+          "subscribers": 249,
+          "stars": 8930
+        },
+        "name": "vue-material",
+        "fullName": "vuematerial/vue-material",
+        "description": "Material design for Vue.js",
+        "topics": [
+          "vue",
+          "javascript",
+          "material",
+          "material-design",
+          "vue-material"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "v1.0.0-beta-15",
+          "tagName": "v1.0.0-beta-15",
+          "createdAt": "2020-08-13T14:16:26Z",
+          "publishedAt": "2020-08-13T14:48:26Z",
+          "isPrerelease": true
+        }
+      },
+      "images": [],
+      "npmPkg": "vue-material",
+      "npm": {
+        "downloads": 81537,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 75,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "topicSearchString": "vue javascript material material-design vue-material"
+    },
+    {
+      "githubUrl": "https://github.com/quasarframework/quasar",
+      "uiComponents": true,
+      "vue": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/quasarframework/quasar",
+          "clone": "https://github.com/quasarframework/quasar.git",
+          "homepage": "https://quasar.dev"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "updatedAt": "2020-08-27T16:41:25Z",
+          "createdAt": "2015-10-05T15:45:36Z",
+          "pushedAt": "2020-08-27T16:41:25Z",
+          "forks": 1813,
+          "issues": 175,
+          "subscribers": 492,
+          "stars": 16006
+        },
+        "name": "quasar",
+        "fullName": "quasarframework/quasar",
+        "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+        "topics": [],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "@quasar/extras-v1.9.5",
+          "tagName": "@quasar/extras-v1.9.5",
+          "createdAt": "2020-08-26T21:39:32Z",
+          "publishedAt": "2020-08-26T21:43:15Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "quasar",
+      "npm": {
+        "downloads": 108186,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 75,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "topicSearchString": ""
+    },
+    {
+      "githubUrl": "https://github.com/airyland/vux",
+      "uiComponents": true,
+      "vue": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/airyland/vux",
+          "clone": "https://github.com/airyland/vux.git",
+          "homepage": "https://vux.li"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-04-25T02:05:04Z",
+          "createdAt": "2016-02-15T03:23:27Z",
+          "pushedAt": "2020-04-25T02:05:04Z",
+          "forks": 3786,
+          "issues": 781,
+          "subscribers": 727,
+          "stars": 17198
+        },
+        "name": "vux",
+        "fullName": "airyland/vux",
+        "description": "Mobile UI Components based on Vue & WeUI",
+        "topics": [
+          "ant",
+          "vux",
+          "weui",
+          "vue",
+          "vue-components",
+          "components",
+          "web-app",
+          "wechat",
+          "javascript",
+          "mobile-web"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "",
+          "tagName": "v2.9.4",
+          "createdAt": "2019-04-16T14:39:15Z",
+          "publishedAt": "2019-04-16T14:41:59Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "vux",
+      "npm": {
+        "downloads": 8835,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 69,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues"
+      ],
+      "topicSearchString": "ant vux weui vue vue-components components web-app wechat javascript mobile-web"
+    },
+    {
+      "githubUrl": "https://github.com/iview/iview",
+      "uiComponents": true,
+      "vue": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/iview/iview",
+          "clone": "https://github.com/iview/iview.git",
+          "homepage": "http://iview.talkingdata.com"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": false,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-06-30T03:19:31Z",
+          "createdAt": "2016-07-28T01:52:59Z",
+          "pushedAt": "2020-06-30T03:19:31Z",
+          "forks": 4151,
+          "issues": 1018,
+          "subscribers": 799,
+          "stars": 23488
+        },
+        "name": "iview",
+        "fullName": "iview/iview",
+        "description": "A high quality UI Toolkit built on Vue.js 2.0",
+        "topics": [
+          "vue",
+          "components",
+          "ui-kit",
+          "vue-components",
+          "javascript",
+          "ui-design",
+          "css",
+          "design-systems",
+          "frontend",
+          "iview"
+        ],
+        "license": {
+          "name": "MIT License",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz",
+          "key": "mit",
+          "spdxId": "MIT"
+        },
+        "lastRelease": {
+          "name": "v3.5.4",
+          "tagName": "3.5.4",
+          "createdAt": "2019-12-02T06:28:54Z",
+          "publishedAt": "2019-12-04T02:52:01Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [
+        "https://avatars3.githubusercontent.com/u/5370542?v=3&s=60",
+        "https://avatars3.githubusercontent.com/u/1522494?v=3&s=60",
+        "https://avatars2.githubusercontent.com/u/6976367?v=3&s=60",
+        "https://avatars3.githubusercontent.com/u/9768245?v=3&s=60",
+        "https://avatars1.githubusercontent.com/u/7582490?v=3&s=60",
+        "https://avatars1.githubusercontent.com/u/1518967?v=3&s=60",
+        "https://avatars3.githubusercontent.com/u/5614559?v=3&s=60",
+        "https://avatars3.githubusercontent.com/u/20942571?v=3&s=60",
+        "https://avatars3.githubusercontent.com/u/216041?v=3&s=60",
+        "https://avatars3.githubusercontent.com/u/12794817?v=3&s=60",
+        "https://avatars2.githubusercontent.com/u/16515026?v=3&s=60"
+      ],
+      "npmPkg": "iview",
+      "npm": {
+        "downloads": 68483,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 69,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues"
+      ],
+      "topicSearchString": "vue components ui-kit vue-components javascript ui-design css design-systems frontend iview"
+    },
+    {
+      "githubUrl": "https://github.com/creativetimofficial/vue-material-kit",
+      "uiComponents": true,
+      "vue": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/creativetimofficial/vue-material-kit",
+          "clone": "https://github.com/creativetimofficial/vue-material-kit.git",
+          "homepage": "https://demos.creative-tim.com/vue-material-kit"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-06-10T12:57:39Z",
+          "createdAt": "2018-09-03T09:32:17Z",
+          "pushedAt": "2020-06-10T12:57:39Z",
+          "forks": 57,
+          "issues": 3,
+          "subscribers": 11,
+          "stars": 207
+        },
+        "name": "vue-material-kit",
+        "fullName": "creativetimofficial/vue-material-kit",
+        "description": "Vue Material Kit - Open Source Material Design UI Kit",
+        "topics": [
+          "vue",
+          "vuejs2",
+          "vuejs",
+          "vue-cli",
+          "vue-components",
+          "material-ui-kit",
+          "material-design",
+          "creativetim",
+          "webdesign",
+          "vue-material"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "v1.2.2",
+          "tagName": "v1.2.2",
+          "createdAt": "2019-12-13T14:32:25Z",
+          "publishedAt": "2019-12-13T14:33:07Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [
+        "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png",
+        "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png",
+        "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png",
+        "https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png"
+      ],
+      "npmPkg": "vue-material-kit",
+      "npm": {},
+      "score": 50,
+      "matchingScoreModifiers": [],
+      "topicSearchString": "vue vuejs2 vuejs vue-cli vue-components material-ui-kit material-design creativetim webdesign vue-material"
+    },
+    {
+      "githubUrl": "https://github.com/ElemeFE/mint-ui",
+      "uiComponents": true,
+      "vue": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/ElemeFE/mint-ui",
+          "clone": "https://github.com/ElemeFE/mint-ui.git",
+          "homepage": "http://mint-ui.github.io/#!/en"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2018-01-16T09:38:38Z",
+          "createdAt": "2016-05-17T09:54:10Z",
+          "pushedAt": "2018-01-16T09:38:38Z",
+          "forks": 3481,
+          "issues": 238,
+          "subscribers": 496,
+          "stars": 16008
+        },
+        "name": "mint-ui",
+        "fullName": "ElemeFE/mint-ui",
+        "description": "Mobile UI elements for Vue.js",
+        "topics": [
+          "vue",
+          "vue-components",
+          "component",
+          "ui-kit",
+          "mobile"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "",
+          "tagName": "v2.2.7",
+          "createdAt": "2017-05-14T09:27:50Z",
+          "publishedAt": "2017-05-14T09:29:09Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "mint-ui",
+      "npm": {
+        "downloads": 21799,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 56,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues",
+        "Not updated recently"
+      ],
+      "topicSearchString": "vue vue-components component ui-kit mobile"
+    },
+    {
+      "githubUrl": "https://github.com/vueComponent/ant-design-vue",
+      "uiComponents": true,
+      "vue": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/vueComponent/ant-design-vue",
+          "clone": "https://github.com/vueComponent/ant-design-vue.git",
+          "homepage": "https://antdv.com/"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-27T14:38:56Z",
+          "createdAt": "2017-09-20T06:04:01Z",
+          "pushedAt": "2020-08-27T14:38:56Z",
+          "forks": 1772,
+          "issues": 547,
+          "subscribers": 281,
+          "stars": 11463
+        },
+        "name": "ant-design-vue",
+        "fullName": "vueComponent/ant-design-vue",
+        "description": "🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜",
+        "topics": [
+          "vue",
+          "enterprise",
+          "css",
+          "ui-design",
+          "antd",
+          "ant-design",
+          "frontend",
+          "vuecomponent",
+          "ui",
+          "vue-antd"
+        ],
+        "license": {
+          "name": "MIT License",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz",
+          "key": "mit",
+          "spdxId": "MIT"
+        },
+        "lastRelease": {
+          "name": "1.6.5",
+          "tagName": "1.6.5",
+          "createdAt": "2020-08-25T08:34:50Z",
+          "publishedAt": "2020-08-25T09:06:21Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "ant-design-vue",
+      "npm": {
+        "downloads": 133442,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 75,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "topicSearchString": "vue enterprise css ui-design antd ant-design frontend vuecomponent ui vue-antd"
+    },
+    {
+      "githubUrl": "https://github.com/A-l-y-l-e/Alyle-UI",
+      "uiComponents": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/A-l-y-l-e/Alyle-UI",
+          "clone": "https://github.com/A-l-y-l-e/Alyle-UI.git",
+          "homepage": "https://alyle.io"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": false,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-26T21:26:08Z",
+          "createdAt": "2017-03-08T08:12:58Z",
+          "pushedAt": "2020-08-26T21:26:08Z",
+          "forks": 31,
+          "issues": 16,
+          "subscribers": 11,
+          "stars": 182
+        },
+        "name": "Alyle-UI",
+        "fullName": "A-l-y-l-e/Alyle-UI",
+        "description": "Minimal Design, a set of components for Angular 9+",
+        "topics": [
+          "angular",
+          "material-design",
+          "angular-components",
+          "material-ui",
+          "material",
+          "theme-support",
+          "typescript",
+          "angular7",
+          "ui",
+          "css-in-ts"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "images": [],
+      "npmPkg": "Alyle-UI",
+      "npm": {},
+      "score": 56,
+      "matchingScoreModifiers": [
+        "Recently updated"
+      ],
+      "topicSearchString": "angular material-design angular-components material-ui material theme-support typescript angular7 ui css-in-ts"
+    },
+    {
+      "githubUrl": "https://github.com/angular/components",
+      "uiComponents": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/angular/components",
+          "clone": "https://github.com/angular/components.git",
+          "homepage": "https://material.angular.io"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-28T15:54:33Z",
+          "createdAt": "2016-01-04T18:50:02Z",
+          "pushedAt": "2020-08-28T15:54:33Z",
+          "forks": 5354,
+          "issues": 1749,
+          "subscribers": 1029,
+          "stars": 20220
+        },
+        "name": "components",
+        "fullName": "angular/components",
+        "description": "Component infrastructure and Material Design components for Angular",
+        "topics": [
+          "angular",
+          "material-design",
+          "material",
+          "angular-components"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "cotton-cactus",
+          "tagName": "10.2.0-rc.0",
+          "createdAt": "2020-08-27T00:23:25Z",
+          "publishedAt": "2020-08-27T00:25:45Z",
+          "isPrerelease": true
+        }
+      },
+      "images": [],
+      "npmPkg": "components",
+      "npm": {
+        "downloads": 32810,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 75,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "topicSearchString": "angular material-design material angular-components"
+    },
+    {
+      "githubUrl": "https://github.com/IBM/carbon-components-angular",
+      "uiComponents": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/IBM/carbon-components-angular",
+          "clone": "https://github.com/IBM/carbon-components-angular.git",
+          "homepage": "https://angular.carbondesignsystem.com"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-27T14:39:47Z",
+          "createdAt": "2018-07-31T19:41:21Z",
+          "pushedAt": "2020-08-27T14:39:47Z",
+          "forks": 144,
+          "issues": 103,
+          "subscribers": 31,
+          "stars": 263
+        },
+        "name": "carbon-components-angular",
+        "fullName": "IBM/carbon-components-angular",
+        "description": "An Angular implementation of the Carbon Design System for IBM.",
+        "topics": [
+          "angular",
+          "component-library",
+          "carbon-design-system",
+          "ibm"
+        ],
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "url": "http://choosealicense.com/licenses/apache-2.0/",
+          "id": "MDc6TGljZW5zZTI="
+        },
+        "lastRelease": {
+          "name": "v3.54.0",
+          "tagName": "v3.54.0",
+          "createdAt": "2020-08-27T20:56:46Z",
+          "publishedAt": "2020-08-27T21:03:04Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "carbon-components-angular",
+      "npm": {
+        "downloads": 51881,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 50,
+      "matchingScoreModifiers": [
+        "Popular",
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "topicSearchString": "angular component-library carbon-design-system ibm"
+    },
+    {
+      "githubUrl": "https://github.com/tiaguinho/material-community-components",
+      "uiComponents": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/tiaguinho/material-community-components",
+          "clone": "https://github.com/tiaguinho/material-community-components.git",
+          "homepage": "https://tiaguinho.github.io/material-community-components"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-19T17:20:55Z",
+          "createdAt": "2018-01-09T14:30:54Z",
+          "pushedAt": "2020-08-19T17:20:55Z",
+          "forks": 47,
+          "issues": 14,
+          "subscribers": 18,
+          "stars": 248
+        },
+        "name": "material-community-components",
+        "fullName": "tiaguinho/material-community-components",
+        "description": ":panda_face: Angular Material Components created from the community",
+        "topics": [
+          "material",
+          "angular",
+          "angular-material2",
+          "community",
+          "angular-components",
+          "typescript",
+          "timerpicker",
+          "colorpicker",
+          "scrollspy",
+          "speed-dial"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "v7.1.0",
+          "tagName": "v7.1.0",
+          "createdAt": "2020-07-23T18:49:04Z",
+          "publishedAt": "2020-07-23T18:54:23Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [
+        "https://travis-ci.org/tiaguinho/material-community-components.svg?branch=master",
+        "https://github.com/tiaguinho/material-community-components/raw/master/images/sponsor-egoi.png"
+      ],
+      "npmPkg": "material-community-components",
+      "npm": {
+        "downloads": 14637,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 56,
+      "matchingScoreModifiers": [
+        "Recently updated"
+      ],
+      "topicSearchString": "material angular angular-material2 community angular-components typescript timerpicker colorpicker scrollspy speed-dial"
+    },
+    {
+      "githubUrl": "https://github.com/src-zone/material",
+      "uiComponents": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/src-zone/material",
+          "clone": "https://github.com/src-zone/material.git",
+          "homepage": "https://blox.src.zone/material"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": false,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-07-14T07:38:24Z",
+          "createdAt": "2017-11-06T08:03:26Z",
+          "pushedAt": "2020-07-14T07:38:24Z",
+          "forks": 19,
+          "issues": 3,
+          "subscribers": 10,
+          "stars": 109
+        },
+        "name": "material",
+        "fullName": "src-zone/material",
+        "description": "A lightweight Material Design library for Angular based on Google's Material Components for the Web.",
+        "topics": [
+          "blox-material",
+          "material-components",
+          "angular",
+          "angular-components",
+          "angular-directives",
+          "material-design",
+          "typescript",
+          "web",
+          "material",
+          "ngx"
+        ],
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "url": "http://choosealicense.com/licenses/apache-2.0/",
+          "id": "MDc6TGljZW5zZTI="
+        }
+      },
+      "images": [],
+      "npmPkg": "material",
+      "npm": {
+        "downloads": 10158,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 50,
+      "matchingScoreModifiers": [],
+      "topicSearchString": "blox-material material-components angular angular-components angular-directives material-design typescript web material ngx"
+    },
+    {
+      "githubUrl": "https://github.com/positive-js/mosaic",
+      "uiComponents": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/positive-js/mosaic",
+          "clone": "https://github.com/positive-js/mosaic.git",
+          "homepage": "https://mosaic.ptsecurity.com"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": false,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-17T20:54:50Z",
+          "createdAt": "2016-09-30T12:22:09Z",
+          "pushedAt": "2020-08-17T20:54:50Z",
+          "forks": 28,
+          "issues": 3,
+          "subscribers": 12,
+          "stars": 98
+        },
+        "name": "mosaic",
+        "fullName": "positive-js/mosaic",
+        "description": "Angular components ✨ 📦🐣 ✨",
+        "topics": [
+          "angular",
+          "mosaic",
+          "angular-components",
+          "ptsecurity",
+          "components",
+          "angular-cdk"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "Selected Blaze",
+          "tagName": "8.5.6",
+          "createdAt": "2020-08-19T13:44:01Z",
+          "publishedAt": "2020-08-19T13:47:47Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "mosaic",
+      "npm": {
+        "downloads": 41,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 56,
+      "matchingScoreModifiers": [
+        "Recently updated"
+      ],
+      "topicSearchString": "angular mosaic angular-components ptsecurity components angular-cdk"
+    },
+    {
+      "githubUrl": "https://github.com/akveo/nebular",
+      "uiComponents": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/akveo/nebular",
+          "clone": "https://github.com/akveo/nebular.git",
+          "homepage": "https://akveo.github.io/nebular"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-07-31T12:04:09Z",
+          "createdAt": "2017-09-20T08:33:06Z",
+          "pushedAt": "2020-07-31T12:04:09Z",
+          "forks": 1249,
+          "issues": 610,
+          "subscribers": 203,
+          "stars": 6454
+        },
+        "name": "nebular",
+        "fullName": "akveo/nebular",
+        "description": ":boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode",
+        "topics": [
+          "angular",
+          "ui",
+          "ui-kit",
+          "authentication",
+          "theme",
+          "multitheme",
+          "modular",
+          "typescript",
+          "sass",
+          "webpack"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "v6.0.0",
+          "tagName": "v6.0.0",
+          "createdAt": "2020-07-31T12:04:09Z",
+          "publishedAt": "2020-07-31T12:23:53Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "nebular",
+      "npm": {
+        "downloads": 103,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 75,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "topicSearchString": "angular ui ui-kit authentication theme multitheme modular typescript sass webpack"
+    },
+    {
+      "githubUrl": "https://github.com/ng-lightning/ng-lightning",
+      "uiComponents": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/ng-lightning/ng-lightning",
+          "clone": "https://github.com/ng-lightning/ng-lightning.git",
+          "homepage": "http://ng-lightning.github.io/ng-lightning/"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-06-16T14:53:33Z",
+          "createdAt": "2016-03-01T12:46:58Z",
+          "pushedAt": "2020-06-16T14:53:33Z",
+          "forks": 109,
+          "issues": 14,
+          "subscribers": 37,
+          "stars": 848
+        },
+        "name": "ng-lightning",
+        "fullName": "ng-lightning/ng-lightning",
+        "description": "Native Angular components & directives for Lightning Design System",
+        "topics": [
+          "ng-lightning",
+          "angular",
+          "lightning",
+          "salesforce-lightning"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        }
+      },
+      "images": [],
+      "npmPkg": "ng-lightning",
+      "npm": {
+        "downloads": 6860,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 56,
+      "matchingScoreModifiers": [
+        "Popular"
+      ],
+      "topicSearchString": "ng-lightning angular lightning salesforce-lightning"
+    },
+    {
+      "githubUrl": "https://github.com/valor-software/ngx-bootstrap",
+      "uiComponents": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/valor-software/ngx-bootstrap",
+          "clone": "https://github.com/valor-software/ngx-bootstrap.git",
+          "homepage": "https://valor-software.com/ngx-bootstrap"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-28T10:35:22Z",
+          "createdAt": "2015-08-08T13:13:57Z",
+          "pushedAt": "2020-08-28T10:35:22Z",
+          "forks": 1593,
+          "issues": 358,
+          "subscribers": 232,
+          "stars": 5164
+        },
+        "name": "ngx-bootstrap",
+        "fullName": "valor-software/ngx-bootstrap",
+        "description": "Fast and reliable Bootstrap widgets in Angular (supports Ivy engine)",
+        "topics": [
+          "angular",
+          "bootstrap",
+          "components",
+          "datepicker",
+          "daterangepicker",
+          "modals",
+          "popover",
+          "sortable",
+          "carousel",
+          "typeahead"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "v6.1.0",
+          "tagName": "v6.1.0",
+          "createdAt": "2020-08-28T10:35:23Z",
+          "publishedAt": "2020-08-28T14:43:42Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "ngx-bootstrap",
+      "npm": {
+        "downloads": 845394,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 75,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "topicSearchString": "angular bootstrap components datepicker daterangepicker modals popover sortable carousel typeahead"
+    },
+    {
+      "githubUrl": "https://github.com/OnsenUI/OnsenUI",
+      "uiComponents": true,
+      "vue": true,
+      "react": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/OnsenUI/OnsenUI",
+          "clone": "https://github.com/OnsenUI/OnsenUI.git",
+          "homepage": "https://onsen.io/"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": false,
+          "hasPages": false,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-06-25T12:21:32Z",
+          "createdAt": "2013-09-11T11:52:41Z",
+          "pushedAt": "2020-06-25T12:21:32Z",
+          "forks": 875,
+          "issues": 123,
+          "subscribers": 336,
+          "stars": 8070
+        },
+        "name": "OnsenUI",
+        "fullName": "OnsenUI/OnsenUI",
+        "description": "Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.",
+        "topics": [
+          "onsen-ui",
+          "cordova",
+          "react",
+          "angular",
+          "monaca",
+          "hybrid-apps",
+          "javascript",
+          "webcomponents",
+          "customelements",
+          "vue"
+        ],
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "url": "http://choosealicense.com/licenses/apache-2.0/",
+          "id": "MDc6TGljZW5zZTI="
+        },
+        "lastRelease": {
+          "name": "2.10.10",
+          "tagName": "2.10.10",
+          "createdAt": "2019-07-29T11:41:06Z",
+          "publishedAt": "2019-07-29T11:49:11Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "OnsenUI",
+      "npm": {},
+      "score": 38,
+      "matchingScoreModifiers": [
+        "Lots of open issues"
+      ],
+      "topicSearchString": "onsen-ui cordova react angular monaca hybrid-apps javascript webcomponents customelements vue"
+    },
+    {
+      "githubUrl": "https://github.com/primefaces/primeng",
+      "uiComponents": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/primefaces/primeng",
+          "clone": "https://github.com/primefaces/primeng.git",
+          "homepage": "https://www.primefaces.org/angular"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": false,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-28T09:15:39Z",
+          "createdAt": "2016-01-16T09:23:28Z",
+          "pushedAt": "2020-08-28T09:15:39Z",
+          "forks": 3060,
+          "issues": 725,
+          "subscribers": 316,
+          "stars": 6157
+        },
+        "name": "primeng",
+        "fullName": "primefaces/primeng",
+        "description": "The Most Complete Angular UI Component Library",
+        "topics": [
+          "angular",
+          "ui",
+          "components",
+          "datatable",
+          "datagrid",
+          "charts",
+          "typescript",
+          "mit"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "PrimeNG 10.0.0-rc.3",
+          "tagName": "10.0.0-rc.3",
+          "createdAt": "2020-08-10T07:42:05Z",
+          "publishedAt": "2020-08-10T07:42:35Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [],
+      "npmPkg": "primeng",
+      "npm": {
+        "downloads": 851640,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 75,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "topicSearchString": "angular ui components datatable datagrid charts typescript mit"
+    },
+    {
+      "githubUrl": "https://github.com/TemainfoSoftware/truly-ui",
+      "uiComponents": true,
+      "angular": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/TemainfoSoftware/truly-ui",
+          "clone": "https://github.com/TemainfoSoftware/truly-ui.git",
+          "homepage": "http://truly-ui.com"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2020-08-21T19:44:58Z",
+          "createdAt": "2017-05-16T14:03:43Z",
+          "pushedAt": "2020-08-21T19:44:58Z",
+          "forks": 33,
+          "issues": 13,
+          "subscribers": 18,
+          "stars": 180
+        },
+        "name": "truly-ui",
+        "fullName": "TemainfoSoftware/truly-ui",
+        "description": "Truly-UI - Web Angular UI Components for Desktop Applications (Electron, NW, APP JS)",
+        "topics": [
+          "angular",
+          "angular4",
+          "angular2",
+          "electron",
+          "ui-components",
+          "ui",
+          "desktop-application",
+          "desktop",
+          "library",
+          "ng2"
+        ],
+        "license": {
+          "name": "MIT License",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz",
+          "key": "mit",
+          "spdxId": "MIT"
+        },
+        "lastRelease": {
+          "name": "v5.0.0",
+          "tagName": "v5.0.0",
+          "createdAt": "2020-08-21T17:23:29Z",
+          "publishedAt": "2020-08-21T17:29:09Z",
+          "isPrerelease": false
+        }
+      },
+      "images": [
+        "https://github.com/TemainfoSoftware/truly-ui/raw/master/src/assets/img/logo-readme.svg"
+      ],
+      "npmPkg": "truly-ui",
+      "npm": {
+        "downloads": 3648,
+        "start": "2020-07-30",
+        "end": "2020-08-28",
+        "period": "month"
+      },
+      "score": 56,
+      "matchingScoreModifiers": [
+        "Recently updated"
+      ],
+      "topicSearchString": "angular angular4 angular2 electron ui-components ui desktop-application desktop library ng2"
     }
   ],
   "topics": {
-    "css": 9,
-    "bootstrap": 5,
-    "javascript": 5,
-    "html": 4,
+    "css": 13,
+    "bootstrap": 6,
+    "javascript": 13,
+    "html": 5,
     "scss": 3,
-    "css-framework": 3,
-    "sass": 2,
+    "css-framework": 5,
+    "sass": 3,
     "pure": 1,
-    "react-components": 4,
-    "react": 9,
-    "material-design": 2,
-    "design-systems": 3,
-    "typescript": 5,
+    "react-components": 5,
+    "react": 13,
+    "material-design": 9,
+    "design-systems": 4,
+    "typescript": 12,
     "ux": 1,
-    "ui": 2,
-    "angular": 3,
-    "component-library": 2,
+    "ui": 8,
+    "angular": 15,
+    "component-library": 3,
     "design-system": 3,
     "clarity": 1,
     "js": 1,
     "responsive": 3,
     "mobile-first": 2,
-    "framework": 2,
+    "framework": 4,
     "eyeglass-module": 1,
     "handlebars-helper-rel": 1,
     "handlebars-helper-slugify": 1,
     "less": 2,
     "lightweight": 1,
-    "flexbox": 1,
-    "design": 1,
-    "bulma": 1,
+    "flexbox": 2,
+    "design": 3,
+    "bulma": 2,
     "bulma-framework": 1,
     "ng-bootstrap": 1,
     "widgets": 1,
     "alert": 1,
     "accordion": 1,
     "buttons": 1,
-    "carousel": 1,
-    "datepicker": 1,
+    "carousel": 2,
+    "datepicker": 2,
     "collapse": 1,
-    "components": 2,
+    "components": 10,
     "reactstrap": 1,
-    "vue": 1,
+    "vue": 11,
     "bootstrap4": 1,
     "nuxt": 1,
     "nuxtjs": 1,
@@ -1583,15 +3575,15 @@
     "metro-ui": 1,
     "metro-ui-css": 1,
     "metro4": 1,
-    "ui-kit": 2,
-    "antd": 2,
-    "ant-design": 2,
-    "ui-components": 1,
-    "angular-components": 1,
-    "frontend": 1,
-    "angular-directives": 1,
-    "ngx": 1,
-    "enterprise": 1,
+    "ui-kit": 7,
+    "antd": 4,
+    "ant-design": 3,
+    "ui-components": 4,
+    "angular-components": 6,
+    "frontend": 3,
+    "angular-directives": 2,
+    "ngx": 2,
+    "enterprise": 2,
     "tailwindcss": 1,
     "postcss": 1,
     "functional-css": 1,
@@ -1601,36 +3593,147 @@
     "babel": 1,
     "a11y": 1,
     "shopify-polaris": 1,
-    "react-native": 1
+    "react-native": 6,
+    "ios": 4,
+    "android": 4,
+    "tools": 1,
+    "mobile": 2,
+    "antd-mobile": 2,
+    "nativebase": 1,
+    "native-platforms": 1,
+    "material": 7,
+    "milligram": 1,
+    "minimalist": 1,
+    "amp": 1,
+    "vue-components": 6,
+    "element-ui": 1,
+    "vuejs": 4,
+    "vuejs2": 2,
+    "vue2": 1,
+    "vue-component": 1,
+    "material-theme": 1,
+    "material-components": 2,
+    "vue-admin": 1,
+    "vue-bulma": 1,
+    "vue-material": 2,
+    "ant": 1,
+    "vux": 1,
+    "weui": 1,
+    "web-app": 1,
+    "wechat": 1,
+    "mobile-web": 1,
+    "ui-design": 2,
+    "iview": 1,
+    "vue-cli": 1,
+    "material-ui-kit": 1,
+    "creativetim": 1,
+    "webdesign": 1,
+    "component": 1,
+    "vuecomponent": 1,
+    "vue-antd": 1,
+    "material-ui": 1,
+    "theme-support": 1,
+    "angular7": 1,
+    "css-in-ts": 1,
+    "carbon-design-system": 1,
+    "ibm": 1,
+    "angular-material2": 1,
+    "community": 1,
+    "timerpicker": 1,
+    "colorpicker": 1,
+    "scrollspy": 1,
+    "speed-dial": 1,
+    "blox-material": 1,
+    "web": 1,
+    "mosaic": 1,
+    "ptsecurity": 1,
+    "angular-cdk": 1,
+    "authentication": 1,
+    "theme": 1,
+    "multitheme": 1,
+    "modular": 1,
+    "webpack": 1,
+    "ng-lightning": 1,
+    "lightning": 1,
+    "salesforce-lightning": 1,
+    "daterangepicker": 1,
+    "modals": 1,
+    "popover": 1,
+    "sortable": 1,
+    "typeahead": 1,
+    "onsen-ui": 1,
+    "cordova": 1,
+    "monaca": 1,
+    "hybrid-apps": 1,
+    "webcomponents": 1,
+    "customelements": 1,
+    "datatable": 1,
+    "datagrid": 1,
+    "charts": 1,
+    "mit": 1,
+    "angular4": 1,
+    "angular2": 1,
+    "electron": 1,
+    "desktop-application": 1,
+    "desktop": 1,
+    "library": 1,
+    "ng2": 1
   },
   "topicsList": [
     "a11y",
     "accordion",
     "alert",
+    "amp",
+    "android",
     "angular",
+    "angular-cdk",
     "angular-components",
     "angular-directives",
+    "angular-material2",
+    "angular2",
+    "angular4",
+    "angular7",
+    "ant",
     "ant-design",
     "antd",
+    "antd-mobile",
+    "authentication",
     "babel",
+    "blox-material",
     "bootstrap",
     "bootstrap4",
     "bootstrapvue",
     "bulma",
     "bulma-framework",
     "buttons",
+    "carbon-design-system",
     "carousel",
+    "charts",
     "clarity",
     "collapse",
+    "colorpicker",
+    "community",
+    "component",
     "component-library",
     "components",
     "comprehensive-implementations",
+    "cordova",
+    "creativetim",
     "css",
     "css-framework",
+    "css-in-ts",
+    "customelements",
+    "datagrid",
+    "datatable",
     "datepicker",
+    "daterangepicker",
     "design",
     "design-system",
     "design-systems",
+    "desktop",
+    "desktop-application",
+    "electron",
+    "element-ui",
     "enterprise",
     "eyeglass-module",
     "flexbox",
@@ -1642,44 +3745,101 @@
     "handlebars-helper-slugify",
     "html",
     "html5",
+    "hybrid-apps",
+    "ibm",
+    "ios",
+    "iview",
     "javascript",
     "jquery",
     "js",
     "less",
+    "library",
+    "lightning",
     "lightweight",
+    "material",
+    "material-components",
     "material-design",
+    "material-theme",
+    "material-ui",
+    "material-ui-kit",
     "metro",
     "metro-ui",
     "metro-ui-css",
     "metro4",
     "microsoft",
+    "milligram",
+    "minimalist",
+    "mit",
+    "mobile",
     "mobile-first",
+    "mobile-web",
+    "modals",
+    "modular",
+    "monaca",
+    "mosaic",
+    "multitheme",
+    "native-platforms",
+    "nativebase",
     "ng-bootstrap",
+    "ng-lightning",
+    "ng2",
     "ngx",
     "nuxt",
     "nuxtjs",
     "office-ui-fabric",
+    "onsen-ui",
+    "popover",
     "postcss",
+    "ptsecurity",
     "pure",
     "react",
     "react-components",
     "react-native",
     "reactstrap",
     "responsive",
+    "salesforce-lightning",
     "sass",
+    "scrollspy",
     "scss",
     "shopify-polaris",
+    "sortable",
+    "speed-dial",
     "sponsors",
     "tailwindcss",
+    "theme",
+    "theme-support",
+    "timerpicker",
+    "tools",
+    "typeahead",
     "typescript",
     "ui",
     "ui-components",
+    "ui-design",
     "ui-kit",
     "utility-classes",
     "ux",
     "ux-framework",
     "vue",
+    "vue-admin",
+    "vue-antd",
+    "vue-bulma",
+    "vue-cli",
+    "vue-component",
+    "vue-components",
+    "vue-material",
+    "vue2",
+    "vuecomponent",
+    "vuejs",
+    "vuejs2",
+    "vux",
     "wai-aria",
+    "web",
+    "web-app",
+    "webcomponents",
+    "webdesign",
+    "webpack",
+    "wechat",
+    "weui",
     "widgets"
   ]
 }

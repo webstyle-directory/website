@@ -175,5 +175,117 @@
     "githubUrl": "https://github.com/milligram/milligram",
     "scss": true,
     "vanilacss": true
+  },
+  {
+    "githubUrl": "https://github.com/ElemeFE/element",
+    "uiComponents": true,
+    "vue": true
+  },
+  {
+    "githubUrl": "https://github.com/vuetifyjs/vuetify",
+    "uiComponents": true,
+    "vue": true
+  },
+  {
+    "githubUrl": "https://github.com/buefy/buefy",
+    "uiComponents": true,
+    "vue": true
+  },
+  {
+    "githubUrl": "https://github.com/vuematerial/vue-material",
+    "uiComponents": true,
+    "vue": true
+  },
+  {
+    "githubUrl": "https://github.com/quasarframework/quasar",
+    "uiComponents": true,
+    "vue": true
+  },
+  {
+    "githubUrl": "https://github.com/airyland/vux",
+    "uiComponents": true,
+    "vue": true
+  },
+  {
+    "githubUrl": "https://github.com/iview/iview",
+    "uiComponents": true,
+    "vue": true
+  },
+  {
+    "githubUrl": "https://github.com/creativetimofficial/vue-material-kit",
+    "uiComponents": true,
+    "vue": true
+  },
+  {
+    "githubUrl": "https://github.com/ElemeFE/mint-ui",
+    "uiComponents": true,
+    "vue": true
+  },
+  {
+    "githubUrl": "https://github.com/vueComponent/ant-design-vue",
+    "uiComponents": true,
+    "vue": true
+  },
+  {
+    "githubUrl": "https://github.com/A-l-y-l-e/Alyle-UI",
+    "uiComponents": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/angular/components",
+    "uiComponents": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/IBM/carbon-components-angular",
+    "uiComponents": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/tiaguinho/material-community-components",
+    "uiComponents": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/src-zone/material",
+    "uiComponents": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/positive-js/mosaic",
+    "uiComponents": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/akveo/nebular",
+    "uiComponents": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/ng-lightning/ng-lightning",
+    "uiComponents": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/valor-software/ngx-bootstrap",
+    "uiComponents": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/OnsenUI/OnsenUI",
+    "uiComponents": true,
+    "vue": true,
+    "react": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/primefaces/primeng",
+    "uiComponents": true,
+    "angular": true
+  },
+  {
+    "githubUrl": "https://github.com/TemainfoSoftware/truly-ui",
+    "uiComponents": true,
+    "angular": true
   }
 ]
