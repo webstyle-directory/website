@@ -20,7 +20,7 @@ export default function Libraries(props: Props) {
         <View style={{ marginTop: 20 }} />
         <P style={styles.text}>
           Want to contribute a library you like? Submit a PR to the{' '}
-          <A href="https://github.com/react-native-community/react-native-directory">Github Repo</A>
+          <A href="https://github.com/webstyle-directory/website">Github Repo</A>
           .
         </P>
       </View>

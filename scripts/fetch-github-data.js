@@ -134,7 +134,7 @@ export const fetchGithubRateLimit = async () => {
   // Accurately fetch query rate limit and cost by making dummy request
   // https://developer.github.com/v4/guides/resource-limitations/
   const result = await makeGraphqlQuery(query, {
-    repoOwner: 'react-native-directory',
+    repoOwner: 'webstyle-directory',
     repoName: 'website',
   });
 
