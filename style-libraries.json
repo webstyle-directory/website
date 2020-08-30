@@ -102,6 +102,7 @@
   },
   {
     "githubUrl": "https://github.com/ant-design/ant-design",
+    "npmPkg": "antd",
     "uiComponents": true,
     "less": true,
     "vanilacss": true,
